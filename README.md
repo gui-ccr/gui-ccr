@@ -8,9 +8,15 @@
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 # 📊 Status do Github:
-![](https://github-readme-stats.vercel.app/api?username=gui-ccr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gui-ccr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-ccr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div>
+  <a href="https://github.com/gui-ccr">
+
+  <img align="right" width="30%" src="images/cafe.png">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gui-ccr&show_icons=true&theme=radical&title_color=ff3068?"></img>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gui-ccr&layout=compact&theme=radical&title_color=ff3068?"></img>
+</div>
+ 
+</div>
 
 ## 🏆 Trofeis do github
 ![](https://github-profile-trophy.vercel.app/?username=gui-ccr&theme=default&no-frame=true&no-bg=true&margin-w=4)
