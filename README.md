@@ -10,7 +10,7 @@
 
 # 📊 Status do Github:
 
-![](https://github-readme-stats.vercel.app/api?username=gu-ccr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gui-ccr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gui-ccr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-ccr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
