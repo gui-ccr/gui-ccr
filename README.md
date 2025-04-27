@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Meu nome é Guilherme e sou apaixonado por desenvolvimento mobile e web 🚀📲, sempre buscando novas maneiras de criar soluções inovadoras e funcionais. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente minhas habilidades e aprendendo novas tecnologias.</p>
+
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=gui-ccr&color=red) &nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gui-ccr?label=follow&style=social)](https://github.com/gui-ccr)
