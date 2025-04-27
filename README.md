@@ -4,12 +4,8 @@
 
 <p align="left">Meu nome é Guilherme e sou apaixonado por desenvolvimento mobile e web 🚀📲, sempre buscando novas maneiras de criar soluções inovadoras e funcionais. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente minhas habilidades e aprendendo novas tecnologias.</p>
 
-![version :25.04.2025](https://img.shields.io/badge/version-25.04.2025-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=gui-ccr&color=red) &nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gui-ccr?label=follow&style=social)](https://github.com/gui-ccr)
-
 ###
-- 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1dYhDuO5vaEu6Fhpg1mC9NxhXybjZnkOmTZvPn1RmODY/edit?tab=t.0) para mais detalhes sobre minha experiência profissional.
+
 <h2 align="left">🎯 Objetivo:</h2>
 
 ###
@@ -55,6 +51,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <picture>
