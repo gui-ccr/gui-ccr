@@ -8,7 +8,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=gui-ccr&color=red) &nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gui-ccr?label=follow&style=social)](https://github.com/gui-ccr)
 
-###
 - 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1dYhDuO5vaEu6Fhpg1mC9NxhXybjZnkOmTZvPn1RmODY/edit?tab=t.0) para mais detalhes sobre minha experiência profissional.
 <h2 align="left">🎯 Objetivo:</h2>
 
