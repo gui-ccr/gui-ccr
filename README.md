@@ -73,3 +73,6 @@
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/snake.svg" alt="Snake animation" />
+
+###
