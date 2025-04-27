@@ -71,6 +71,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [gui-ccr/pacman-contribution-graph](https://gui-ccr.github.io/pacman-contribution-graph/)_
-📌 Don’t forget to 
 ###
