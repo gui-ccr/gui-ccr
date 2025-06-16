@@ -12,6 +12,7 @@
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gui-ccr?label=follow&style=social)](https://github.com/gui-ccr)
 
 ###
+
 - 📄You can check out my [resume](https://docs.google.com/document/d/1dYhDuO5vaEu6Fhpg1mC9NxhXybjZnkOmTZvPn1RmODY/edit?tab=t.0) for more details about my professional experience.
 
 ###
@@ -71,8 +72,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph.svg">
@@ -80,7 +81,6 @@
 </picture>
 
 ###
-
 
 <details>
   
@@ -96,6 +96,7 @@
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gui-ccr?label=follow&style=social)](https://github.com/gui-ccr)
 
 ###
+
 - 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1dYhDuO5vaEu6Fhpg1mC9NxhXybjZnkOmTZvPn1RmODY/edit?tab=t.0) para mais detalhes sobre minha experiência profissional.
 
 ###
@@ -155,6 +156,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph-dark.svg">
@@ -162,9 +164,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ###
-
 
 </details>
