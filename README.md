@@ -13,7 +13,7 @@
 
 ###
 
-- 📄You can check out my [resume](https://docs.google.com/document/d/1dYhDuO5vaEu6Fhpg1mC9NxhXybjZnkOmTZvPn1RmODY/edit?tab=t.0) for more details about my professional experience.
+- 📄You can check out my [resume](https://docs.google.com/document/d/1yVO1BQ10u9OHR9vdBD_KOVqUOcQ2HC8uYlJoug8dZx8/edit?tab=t.0) for more details about my professional experience.
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-- 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1dYhDuO5vaEu6Fhpg1mC9NxhXybjZnkOmTZvPn1RmODY/edit?tab=t.0) para mais detalhes sobre minha experiência profissional.
+- 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1yVO1BQ10u9OHR9vdBD_KOVqUOcQ2HC8uYlJoug8dZx8/edit?tab=t.0) para mais detalhes sobre minha experiência profissional.
 
 ###
 
