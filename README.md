@@ -52,7 +52,7 @@
 <h2 align="left">📫 Como me encontrar</h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/gui-ccr-" target="_blank">
+  <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
   </a>
   <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank">
@@ -126,7 +126,7 @@
 <h2 align="left">📫 How to reach me</h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/gui-ccr-" target="_blank">
+  <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
   </a>
   <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank">
