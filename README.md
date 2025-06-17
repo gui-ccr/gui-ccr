@@ -26,13 +26,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ gui-ccr- Nome " target="_blank">
+  <a href="www.linkedin.com/in/gui-ccr-" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gui_ccr_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
   </a>
-  <a href="guilhermerodrigues6484@gmail.com" target="_blank">
+  <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo"  />
   </a>
 </div>
@@ -102,13 +102,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ gui-ccr- Nome " target="_blank">
+  <a href="www.linkedin.com/in/gui-ccr-" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gui_ccr_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
   </a>
-  <a href="guilhermerodrigues6484@gmail.com" target="_blank">
+  <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo"  />
   </a>
 </div>
