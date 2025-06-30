@@ -66,8 +66,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="Estatísticas do GitHub"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Linguagens mais usadas"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true&cache_seconds=3600" height="150" alt="Estatísticas do GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache_seconds=3600" height="150" alt="Linguagens mais usadas"  />
 </div>
 
 </details>
@@ -140,8 +140,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" height="150" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache_seconds=3600" height="150" alt="Top Languages"  />
 </div>
 
 </details>
