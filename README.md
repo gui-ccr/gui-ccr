@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 📄 Você pode conferir meu <a href="https://docs.google.com/document/d/1yVO1BQ10u9OHR9vdBD_KOVqUOcQ2HC8uYlJoug8dZx8/edit?tab=t.0">currículo</a> para mais detalhes sobre minha experiência.
+- 📄 Você pode conferir meu <a href="https://drive.google.com/file/d/144rUZnW4qztCTp8K1HwYmRIhMCq0kX02/view?usp=sharing">currículo</a> para mais detalhes sobre minha experiência.
 
 ---
 
@@ -88,7 +88,7 @@
   </a>
 </p>
 
-- 📄 You can check out my <a href="https://docs.google.com/document/d/1yVO1BQ10u9OHR9vdBD_KOVqUOcQ2HC8uYlJoug8dZx8/edit?tab=t.0">resume</a> for more details about my professional experience.
+- 📄 You can check out my <a href="https://drive.google.com/file/d/144rUZnW4qztCTp8K1HwYmRIhMCq0kX02/view?usp=sharing">resume</a> for more details about my professional experience.
 
 ---
 
