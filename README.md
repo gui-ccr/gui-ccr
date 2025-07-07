@@ -34,8 +34,12 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" /></a>
 </p>
 <p align="left">
+  <strong>Backend:</strong><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java" /></a>
+</p>
+<p align="left">
   <strong>Ferramentas e Outros:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,cpp,java" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a>
 </p>
 
 ---
@@ -93,11 +97,15 @@
 </p>
 <p align="left">
   <strong>Web:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></a>
+</p>
+<p align="left">
+  <strong>Backend:</strong><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java" /></a>
 </p>
 <p align="left">
   <strong>Tools & Others:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,cpp,java" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a>
 </p>
 
 ---
