@@ -31,7 +31,7 @@
 </p>
 <p align="left">
   <strong>Web:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></a>
 </p>
 <p align="left">
   <strong>Backend:</strong><br>
