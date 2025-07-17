@@ -22,26 +22,23 @@
 </p>
 
 ---
+### 🚀 Desenvolvimento Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 
-<h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
+### 💻 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 
-<p align="left">
-  <strong>Mobile:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter" /></a>
-</p>
-<p align="left">
-  <strong>Web:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></a>
-</p>
-<p align="left">
-  <strong>Backend:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java" /></a>
-</p>
-<p align="left">
-  <strong>Ferramentas e Outros:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a>
-</p>
+### ⚡ Backend
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ---
 
 <h2 align="left">📫 Como me encontrar</h2>
@@ -89,24 +86,23 @@
 
 ---
 
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
+### 🚀 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 
-<p align="left">
-  <strong>Mobile:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter" /></a>
-</p>
-<p align="left">
-  <strong>Web:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></a>
-</p>
-<p align="left">
-  <strong>Backend:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java" /></a>
-</p>
-<p align="left">
-  <strong>Tools & Others:</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a>
-</p>
+### 💻 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+
+### ⚡ Backend Development
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 ---
 
