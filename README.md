@@ -59,6 +59,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:2b2d42,100:8d99ae&section=footer&reversal=false&textBg=false"/>
 
+<p align="center">
+  <img src="https://github.com/gui-ccr/snk/raw/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 </details>
 
 <details>
@@ -114,6 +118,11 @@
   <a href="https://www.instagram.com/gui_ccr_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo" /></a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/gui-ccr/snk/raw/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 <div align="center">
