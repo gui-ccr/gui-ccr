@@ -14,23 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # --- PASSO NOVO E CRUCIAL ---
-      - name: Create output directory
-        run: mkdir -p dist
-
       - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+        # --- USANDO A NOVA ACTION QUE VOCÊ ENCONTROU ---
+        uses: sowdane/snake-game-action@v1.0.3 # Exemplo, verifique a versão mais recente se quiser
         with:
+          # O parâmetro para o usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
-          # Agora dizemos explicitamente para salvar na pasta que acabamos de criar
-          outputs: 
-              dist/snake.svg
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-              dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          
+          # O parâmetro de saída desta action é 'output'
+          output: dist/snake.svg
+          
+          # Os parâmetros de cor, que felizmente são os mesmos
+          color_snake: "#fe8019"
+          color_dots: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
 
       - name: Push to output branch
-        # Este passo agora vai funcionar, pois a pasta 'dist' vai existir
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
