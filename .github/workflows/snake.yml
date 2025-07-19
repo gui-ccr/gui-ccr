@@ -18,7 +18,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg?palette=gruvbox
+          
+          # 1. O nome do arquivo, sem nenhum parâmetro de cor.
+          outputs: dist/github-snake.svg
+          
+          # 2. Injetando as cores do tema Gruvbox diretamente.
+          color_snake: "#fe8019"
+          color_dots: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
