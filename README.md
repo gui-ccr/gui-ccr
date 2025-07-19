@@ -52,16 +52,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true&cache_seconds=3600" height="150" alt="Estatísticas do GitHub"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache_seconds=3600" height="150" alt="Linguagens mais usadas"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=pt-br&hide_border=true&cache_seconds=3600" height="150" alt="Estatísticas do GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Linguagens mais usadas"  />
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:2b2d42,100:8d99ae&section=footer&reversal=false&textBg=false"/>
-
-<p align="center">
-  <img src="https://github.com/gui-ccr/snk/raw/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake.svg)
 
 </details>
 
@@ -120,17 +115,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/gui-ccr/snk/raw/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
----
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache_seconds=3600" height="150" alt="Top Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Top Languages"  />
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:2b2d42,100:8d99ae&section=footer&reversal=false&textBg=false"/>
+![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake.svg)
+
 
 </details>
