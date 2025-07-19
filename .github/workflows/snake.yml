@@ -15,16 +15,13 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Snake SVG
-        # --- USANDO A NOVA ACTION QUE VOCÊ ENCONTROU ---
-        uses: sowdane/snake-game-action@v1.0.3 # Exemplo, verifique a versão mais recente se quiser
+        # --- AQUI ESTÁ A CORREÇÃO FINAL DA VERSÃO ---
+        uses: sowdane/snake-game-action@v4
         with:
-          # O parâmetro para o usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
           
-          # O parâmetro de saída desta action é 'output'
           output: dist/snake.svg
           
-          # Os parâmetros de cor, que felizmente são os mesmos
           color_snake: "#fe8019"
           color_dots: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
 
