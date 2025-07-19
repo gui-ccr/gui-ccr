@@ -15,16 +15,15 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+        # --- AQUI ESTÁ A MUDANÇA PRINCIPAL ---
+        uses: andry81/gh-action-snake@v1.0.3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          
-          # 1. O nome do arquivo, sem nenhum parâmetro de cor.
-          outputs: dist/github-snake.svg
-          
-          # 2. Injetando as cores do tema Gruvbox diretamente.
-          color_snake: "#fe8019"
-          color_dots: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
+          # O nome do arquivo de saída (a nova action usa OUT_PATH)
+          OUT_PATH: "dist/snake.svg"
+          # A cor da cobra (a nova action usa COLOR_SNAKE)
+          COLOR_SNAKE: "#fe8019"
+          # As cores dos pontos (a nova action usa COLOR_DOTS)
+          COLOR_DOTS: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
