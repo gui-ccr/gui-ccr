@@ -15,12 +15,14 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Snake SVG
-        # AQUI ESTÁ A CORREÇÃO, USANDO @master
-        uses: andry81/gh-action-snake@master
+        uses: Platane/snk/svg-only@v3
         with:
-          OUT_PATH: "dist/snake.svg"
-          COLOR_SNAKE: "#fe8019"
-          COLOR_DOTS: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Removendo a linha "outputs" e injetando as cores diretamente.
+          # Esta é a forma mais básica de se usar a action.
+          color_snake: "#fe8019"
+          color_dots: "#458588,#689d6a,#98971a,#b8bb26,#fabd2f"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
