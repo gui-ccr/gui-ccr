@@ -25,7 +25,7 @@ jobs:
           # Arquivos de saída, salvos na raiz do branch 'output'
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=gruvbox
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
