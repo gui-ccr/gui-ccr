@@ -5,10 +5,7 @@
   <img alt="banner" src="/img/bannerPT.png"</a>
 </p>
 
-
-<p align="left">
-  Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente minhas habilidades e aprendendo novas tecnologias.
-</p>
+---
 
 <p align="left">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
@@ -72,10 +69,7 @@
   <img alt="banner" src="/img/bannerEN.png"</a>
 </p>
 
-
-<p align="left">
- I am currently studying Systems Analysis and Development (TADS) 🎓💡, constantly improving my skills and learning new technologies.
-</p>
+---
 
 <p align="left">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
