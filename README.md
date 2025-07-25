@@ -2,7 +2,7 @@
 <summary>🇧🇷 Português</summary>
 
 <p align="center">
-  <img alt="banner" src="/img/bannerPT.png" width="50%"> </p>
+  <img alt="banner" src="/img/bannerPT.png" width="600px"> </p>
 
 
 
@@ -65,7 +65,7 @@
 <summary>🇬🇧 English</summary>
   
 <p align="center">
-  <img alt="banner" src="/img/bannerEN.png" width="50%"> </p>
+  <img alt="banner" src="/img/bannerEN.png" width="600px"> </p>
 
 <p align="left">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
