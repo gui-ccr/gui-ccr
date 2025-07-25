@@ -5,10 +5,9 @@
   <img alt="banner" src="/img/bannerPT.png"</a>
 </p>
 
-<h1 align="left">👋 Olá, seja bem-vindo(a)!</h1>
 
 <p align="left">
-  Meu nome é Guilherme e sou apaixonado por desenvolvimento mobile e web 🚀📲, sempre buscando novas maneiras de criar soluções inovadoras e funcionais. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente minhas habilidades e aprendendo novas tecnologias.
+  Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente minhas habilidades e aprendendo novas tecnologias.
 </p>
 
 <p align="left">
@@ -68,11 +67,14 @@
 
 <details>
 <summary>🇬🇧 English</summary>
+  
+<p align="center">
+  <img alt="banner" src="/img/bannerEN.png"</a>
+</p>
 
-<h1 align="left">👋 Hello, welcome!</h1>
 
 <p align="left">
-  My name is Guilherme and I am passionate about mobile and web development 🚀📲, always looking for new ways to create innovative and functional solutions. I am currently studying Systems Analysis and Development (TADS) 🎓💡, constantly improving my skills and learning new technologies.
+ I am currently studying Systems Analysis and Development (TADS) 🎓💡, constantly improving my skills and learning new technologies.
 </p>
 
 <p align="left">
