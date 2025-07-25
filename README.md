@@ -1,12 +1,13 @@
 <img align="right" width="500px" style="margin-top: -20px; margin-right: 20px;" src="img/banner.png">
 
-
- <h1 align="left">Guilherme Rodrigues</h1>
-<p align="left">
+<p align="left" style="font-size: 2.5em; margin-bottom: 0; line-height: 1.2;">Guilherme Rodrigues</p> <p align="left" style="margin-top: 5px;">
   <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"/></a>
   <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo" /></a>
   <a href="https://www.instagram.com/gui_ccr_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo" /></a>
 </p>
+
+<div style="clear: both;"></div> 
+
 
 </br></br>
 
