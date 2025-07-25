@@ -56,6 +56,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Linguagens mais usadas"  />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake.svg">
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake.svg">
+  </picture>
+</div>
+
 
 </details>
 
@@ -118,6 +126,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Top Languages"  />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake.svg">
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
