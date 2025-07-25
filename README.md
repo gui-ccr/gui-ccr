@@ -56,7 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Linguagens mais usadas"  />
 </div>
 
-![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/dist/github-contribution-grid-snake2.svg)
+
 </details>
 
 <details>
@@ -122,5 +123,6 @@
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/dist/github-contribution-grid-snake2.svg)
+
 </details>
