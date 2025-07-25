@@ -122,5 +122,6 @@
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/dist/github-contribution-grid-snake2.svg)
+
 </details>
