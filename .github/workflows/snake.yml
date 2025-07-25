@@ -1,6 +1,5 @@
 name: Generate Snake
 
-# Adicione essas permissões aqui!
 permissions:
   contents: write
 
@@ -24,7 +23,7 @@ jobs:
           github_user_name: gui-ccr
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-blue.svg?color_snake=#00aaff&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
