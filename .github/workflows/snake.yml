@@ -23,7 +23,7 @@ jobs:
           github_user_name: gui-ccr
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-blue.svg?color_snake=#00aaff&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
+            dist/github-contribution-grid-snake-golden.svg?color_snake=#ffa500&color_dots=#1a1a1a,#2d1f0a,#3d2a0f,#4d3512,#6d4a18
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
