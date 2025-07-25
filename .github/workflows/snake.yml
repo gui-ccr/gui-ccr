@@ -1,11 +1,12 @@
 name: Generate Snake
 
+# Adicione essas permissões aqui!
+permissions:
+  contents: write
+
 on:
-  # Roda a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Permite rodar manualmente
   workflow_dispatch:
 
 jobs:
@@ -14,6 +15,9 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        
       - name: Generate snake game
         uses: Platane/snk/svg-only@v3
         with:
