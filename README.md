@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary>🇧🇷 Português</summary>
 
 <h1 align="left">👋 Olá, seja bem-vindo(a)!</h1>
