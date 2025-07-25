@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-blue.svg" alt="Snake animation" />
 </div>
 
 </details>
@@ -126,7 +126,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-blue.svg" alt="Snake animation" />
 </div>
 
 </details>
