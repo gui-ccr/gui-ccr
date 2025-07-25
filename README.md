@@ -1,6 +1,10 @@
 <details open>
 <summary>🇧🇷 Português</summary>
 
+<p align="center">
+  <img alt="banner" src="/img/bannerPT.png"</a>
+</p>
+
 <h1 align="left">👋 Olá, seja bem-vindo(a)!</h1>
 
 <p align="left">
