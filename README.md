@@ -3,7 +3,6 @@
 <h3 align="left" style="font-size: 4em; margin-bottom: 0; line-height: 1.2;">Guilherme Rodrigues</h3> <p align="left" style="margin-top: 5px;">
   <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"/></a>
   <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo" /></a>
-  <a href="https://www.instagram.com/gui_ccr_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo" /></a>
 </p>
 
 <div style="clear: both;"></div> 
@@ -15,7 +14,7 @@
   
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá!
 <p align="left">
-  Meu nome é Guilherme e sou apaixonado por desenvolvimento mobile e web 🚀📲, sempre buscando novas maneiras de criar soluções inovadoras e funcionais. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente minhas habilidades e aprendendo novas tecnologias.
+  Meu nome é Guilherme, sou um desenvolvedor de software focado na construção de sistemas back-end robustos com Java ☕️⚙️. Também sou entusiasta do desenvolvimento mobile, explorando o ecossistema Flutter, e estou sempre em busca de novas tecnologias para criar soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas (TADS) 🎓💡, aprimorando constantemente meus conhecimentos em algoritmos e arquitetura de software
 </p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
   <a href="https://github.com/gui-ccr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gui-ccr?label=Follow&style=social"></a>
@@ -33,6 +32,10 @@
 </details>
   
 
+### ⚡ Backend
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+
 ### 🚀 Desenvolvimento Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
@@ -42,10 +45,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-
-### ⚡ Backend
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
@@ -68,7 +67,7 @@
   
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi!
 <p align="left">
-  My name is Guilherme and I'm passionate about mobile and web development 🚀📲, always seeking new ways to create innovative and functional solutions. Currently, I am pursuing a degree in Systems Analysis and Development (TADS) 🎓💡, continuously enhancing my skills and learning new technologies.
+ My name is Guilherme, and I'm a software developer focused on building robust back-end systems with Java ☕️⚙️. I'm also a mobile development enthusiast, exploring the Flutter ecosystem, and always seeking new technologies to create innovative solutions. I'm currently studying Systems Analysis and Development (TADS) 🎓💡, constantly improving my knowledge of algorithms and software architecture.
 </p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
   <a href="https://github.com/gui-ccr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gui-ccr?label=Follow&style=social"></a>
@@ -85,6 +84,9 @@
 <p align="center">
 </details>
   
+### ⚡ Backend
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
 ### 🚀 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
@@ -96,9 +98,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 
-### ⚡ Backend
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
