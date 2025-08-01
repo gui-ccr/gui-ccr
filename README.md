@@ -28,7 +28,7 @@
 
   - 🎓 Ingressei no Instituto Federal do Norte de Minas Gerais (IFNMG) em 2025, com previsão de termino em 2027.
 
-  - 📄 Você pode conferir meu <a href="https://drive.google.com/file/d/144rUZnW4qztCTp8K1HwYmRIhMCq0kX02/view?usp=sharing">currículo</a> para mais detalhes sobre minha experiência.
+  - 📄 Você pode conferir meu <a href="https://drive.google.com/file/d/1p9HDEpxhFtN4wEg9mEUte1UXVDjfciSm/view?usp=sharing">currículo</a> para mais detalhes sobre minha experiência.
 <p align="center">
 </details>
   
@@ -81,7 +81,7 @@
 
   - 🎓 I joined the Federal Institute of North Minas Gerais (IFNMG) in 2025, with an expected completion in 2027.
 
-  - 📄 You can check out my <a href="https://drive.google.com/file/d/144rUZnW4qztCTp8K1HwYmRIhMCq0kX02/view?usp=sharing">resume</a> for more details about my professional experience.
+  - 📄 You can check out my <a href="https://drive.google.com/file/d/1p9HDEpxhFtN4wEg9mEUte1UXVDjfciSm/view?usp=sharing">resume</a> for more details about my professional experience.
 <p align="center">
 </details>
   
