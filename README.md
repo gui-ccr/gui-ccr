@@ -19,7 +19,7 @@
 <p align="left">
   Meu nome é Guilherme, sou um Desenvolvedor Mobile apaixonado por transformar ideias em aplicativos funcionais e intuitivos com Flutter. Minha principal motivação é criar interfaces fluidas e experiências de usuário que encantam e resolvem problemas reais.
   <br/><br/>
-  Minha base em linguagens como C++ e JavaScript me dá uma compreensão sólida sobre lógica de programação e arquitetura de software, que aplico para construir aplicativos mais eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (TADS) 🎓💡 para aprofundar ainda mais meu conhecimento.
+  Minha base em linguagens como C++, Java e JavaScript me dá uma compreensão sólida sobre lógica de programação e arquitetura de software, que aplico para construir aplicativos mais eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (TADS) 🎓💡 para aprofundar ainda mais meu conhecimento.
 </p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
   <a href="https://github.com/gui-ccr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gui-ccr?label=Follow&style=social"></a>
@@ -67,7 +67,7 @@
 <p align="left">
  My name is Guilherme, and I'm a Mobile Developer passionate about turning ideas into functional and intuitive applications with Flutter. My main motivation is to create fluid interfaces and user experiences that delight and solve real-world problems.
  <br/><br/>
- My background in languages like C++ and JavaScript gives me a solid understanding of programming logic and software architecture, which I apply to build more efficient applications. I'm currently studying Systems Analysis and Development (TADS) 🎓💡 to further deepen my knowledge.
+ My background in languages like C++, Java and JavaScript gives me a solid understanding of programming logic and software architecture, which I apply to build more efficient applications. I'm currently studying Systems Analysis and Development (TADS) 🎓💡 to further deepen my knowledge.
 </p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gui-ccr&color=red">
   <a href="https://github.com/gui-ccr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gui-ccr?label=Follow&style=social"></a>
