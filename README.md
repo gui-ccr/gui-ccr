@@ -45,9 +45,9 @@
 </p>
 <p>Sistema de RPG via terminal com mecânicas de combate, gerenciamento de personagem e persistência de dados. Um projeto focado em demonstrar lógica de programação, arquitetura e interação com banco de dados.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
 </p>
 <p align="center">
 <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>Ver Repositório →</strong></a>
@@ -61,8 +61,8 @@
 </p>
 <p>Aplicativo mobile que consome a API do The Movie Database (TMDb) para listar os filmes populares do momento. O projeto demonstra habilidades em consumo de APIs REST, gerenciamento de estado e construção de UIs em Flutter.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
 </p>
 <p align="center">
 <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>Ver Repositório →</strong></a>
@@ -76,7 +76,7 @@
 ### 🚀 Minhas Habilidades
 
 <p align="left">
-  <strong> Desenvolvimento Mobile </strong><br>
+  <strong>Desenvolvimento Mobile</strong><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
 </p>
@@ -132,7 +132,6 @@
 ---
 
 ### ⭐ Featured Projects
-*Update the links with your repositories!*
 
 <table>
 <tr>
@@ -144,9 +143,9 @@
 </p>
 <p>A terminal-based RPG system with combat mechanics, character management, and data persistence. This project focuses on demonstrating programming logic, architecture, and database interaction.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
 </p>
 <p align="center">
 <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>View Repository →</strong></a>
@@ -160,8 +159,8 @@
 </p>
 <p>A mobile app that consumes The Movie Database (TMDb) API to list currently popular movies. This project demonstrates skills in consuming REST APIs, state management, and building UIs in Flutter.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
 </p>
 <p align="center">
 <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
