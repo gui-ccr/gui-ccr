@@ -41,7 +41,6 @@
 <h4 align="center">RPG de Terminal (Java)</h4>
 <p align="center">
 <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
-<img src="imagem-rpg.png" width="300" alt="Preview do Projeto RPG">
 </a>
 </p>
 <p>Sistema de RPG via terminal com mecânicas de combate, gerenciamento de personagem e persistência de dados. Um projeto focado em demonstrar lógica de programação, arquitetura e interação com banco de dados.</p>
@@ -58,7 +57,6 @@
 <h4 align="center">MovieFlix (Flutter)</h4>
 <p align="center">
 <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
-<img src="imagem-movieflix.png" width="300" alt="Preview do Projeto MovieFlix">
 </a>
 </p>
 <p>Aplicativo mobile que consome a API do The Movie Database (TMDb) para listar os filmes populares do momento. O projeto demonstra habilidades em consumo de APIs REST, gerenciamento de estado e construção de UIs em Flutter.</p>
@@ -141,8 +139,7 @@
 <td width="50%">
 <h4 align="center">Terminal RPG (Java)</h4>
 <p align="center">
-<a href="LINK_TO_YOUR_RPG_PROJECT" target="_blank">
-<img src="https://i.imgur.com/uG0Ca3C.png" width="300" alt="RPG Project Preview">
+<a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
 </a>
 </p>
 <p>A terminal-based RPG system with combat mechanics, character management, and data persistence. This project focuses on demonstrating programming logic, architecture, and database interaction.</p>
@@ -152,14 +149,13 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 </p>
 <p align="center">
-<a href="LINK_TO_YOUR_RPG_PROJECT" target="_blank"><strong>View Repository →</strong></a>
+<a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>View Repository →</strong></a>
 </p>
 </td>
 <td width="50%">
 <h4 align="center">MovieFlix (Flutter)</h4>
 <p align="center">
-<a href="LINK_TO_YOUR_MOVIEFLIX_PROJECT" target="_blank">
-<img src="https://i.imgur.com/gKj3Y4k.png" width="300" alt="MovieFlix Project Preview">
+<a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
 </a>
 </p>
 <p>A mobile app that consumes The Movie Database (TMDb) API to list currently popular movies. This project demonstrates skills in consuming REST APIs, state management, and building UIs in Flutter.</p>
@@ -168,7 +164,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 <p align="center">
-<a href="LINK_TO_YOUR_MOVIEFLIX_PROJECT" target="_blank"><strong>View Repository →</strong></a>
+<a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
 </p>
 </td>
 </tr>
