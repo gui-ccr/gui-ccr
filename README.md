@@ -2,7 +2,7 @@
 
 <h3 align="left" style="font-size: 4em; margin-bottom: 0; line-height: 1.2;">Guilherme Rodrigues</h3>
 <p align="left" style="margin-top: 5px;">
-  <strong>Desenvolvedor de Software | Mobile (Flutter) & Backend (Java)</strong>
+  <strong>Desenvolvedor de Software | Front-End (React) & Backend (Java) & Mobile (Flutter)</strong>
 </p>
 <p align="left" style="margin-top: 5px;">
   <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"/></a>
