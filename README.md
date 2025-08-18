@@ -18,7 +18,7 @@
 <p align="left">
   Olá! Sou Guilherme, um desenvolvedor com foco em <strong>criar experiências de usuário ricas e interativas para a web com React</strong>. Minha paixão é transformar ideias em interfaces funcionais, escaláveis e visualmente agradáveis.
   <br/><br/>
-  Embora meu foco principal seja o front-end, minha experiência com <strong>Java no backend</strong> e <strong>Flutter no mobile</strong> me proporciona uma visão completa do ecossistema de software, permitindo-me construir soluções coesas e eficientes de ponta a ponta. Com minha base em Análise e Desenvolvimento de Sistemas (TADS) 🎓, busco uma oportunidade de estágio para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos web desafiadores.
+  Embora meu foco atual seja o front-end, minha experiência com <strong>Java no backend</strong> e <strong>Flutter no mobile</strong> me proporciona uma visão completa do ecossistema de software, permitindo-me construir soluções coesas e eficientes de ponta a ponta. Com minha base em Análise e Desenvolvimento de Sistemas (TADS) 🎓, busco uma oportunidade de estágio para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos web desafiadores.
 </p>
 
 <details>
@@ -117,7 +117,7 @@
 <p align="left">
   Hi! I'm Guilherme, a developer focused on <strong>crafting rich and interactive user experiences for the web with React</strong>. My passion is to turn ideas into functional, scalable, and visually appealing interfaces.
   <br/><br/>
-  While my primary focus is front-end, my experience with <strong>Java on the backend</strong> and <strong>Flutter for mobile</strong> gives me a comprehensive view of the software ecosystem, enabling me to build cohesive and efficient end-to-end solutions. With my background in Systems Analysis and Development (TADS) 🎓, I am seeking an internship opportunity to apply my skills, learn from an experienced team, and contribute to challenging web projects.
+  While my actual focus is front-end, my experience with <strong>Java on the backend</strong> and <strong>Flutter for mobile</strong> gives me a comprehensive view of the software ecosystem, enabling me to build cohesive and efficient end-to-end solutions. With my background in Systems Analysis and Development (TADS) 🎓, I am seeking an internship opportunity to apply my skills, learn from an experienced team, and contribute to challenging web projects.
 </p>
 
 <details>
