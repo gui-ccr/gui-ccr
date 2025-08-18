@@ -41,9 +41,10 @@
 <h4 align="center">RPG de Terminal (Java)</h4>
 <p align="center">
 <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
+<img src="https://github.com/gui-ccr/rpg-batalha-console-java/blob/main/assets/Gameplay.gif?raw=true" alt="Gameplay do RPG de Terminal" width="300"/>
 </a>
 </p>
-<p>Sistema de RPG via terminal focado em demonstrar lógica de programação orientada a objetos, arquitetura de software e interação com banco de dados. Uma base sólida para a construção de qualquer tipo de aplicação.</p>
+<p>Sistema de RPG via terminal focado em demonstrar lógica de programação orientada a objetos, arquitetura de software e interação com banco de dados com metodolodia CRUD. Uma base sólida para a construção de qualquer tipo de aplicação.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
@@ -57,6 +58,7 @@
 <h4 align="center">MovieFlix (Flutter)</h4>
 <p align="center">
 <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
+<img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
 </a>
 </p>
 <p>Aplicativo mobile que consome a API do The Movie Database (TMDb). O projeto demonstra habilidades em consumo de APIs REST, gerenciamento de estado e construção de UIs declarativas, conceitos aplicáveis no desenvolvimento web.</p>
@@ -70,8 +72,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ### 🚀 Minhas Habilidades
 
@@ -137,9 +137,10 @@
 <table>
 <tr>
 <td width="50%">
-<h4 align="center">Terminal RPG (Java)</h4>
+<h4 align="center">RPG de Terminal (Java)</h4>
 <p align="center">
 <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
+<img src="https://github.com/gui-ccr/rpg-batalha-console-java/blob/main/assets/Gameplay.gif?raw=true" alt="Gameplay do RPG de Terminal" width="300"/>
 </a>
 </p>
 <p>A terminal-based RPG system focused on demonstrating object-oriented programming logic, software architecture, and database interaction—a solid foundation for building any type of application.</p>
@@ -151,11 +152,11 @@
 <p align="center">
 <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>View Repository →</strong></a>
 </p>
-</td>
 <td width="50%">
 <h4 align="center">MovieFlix (Flutter)</h4>
 <p align="center">
 <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
+<img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
 </a>
 </p>
 <p>A mobile app that consumes The Movie Database (TMDb) API. This project demonstrates skills in consuming REST APIs, state management, and building declarative UIs, concepts also applicable to web development.</p>
