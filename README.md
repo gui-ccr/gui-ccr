@@ -34,7 +34,10 @@
 
 ---
 
-### ⭐ Projetos em Destaque
+  
+<details>
+<summary><strong>⭐ Projetos em Destaque (Clique para expandir)</strong></summary>
+<br>
 
 <table>
   <tr valign="top">
@@ -108,6 +111,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 ### 🚀 Minhas Habilidades
 
@@ -168,7 +172,11 @@
 
 ---
 
-### ⭐ Featured Projects
+  
+
+<details>
+<summary><strong>⭐ Featured Projects</strong></summary>
+<br>
 
 <table>
   <tr valign="top">
@@ -242,6 +250,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 ---
 ### 🚀 My Skills
