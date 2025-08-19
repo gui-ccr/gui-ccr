@@ -7,6 +7,7 @@
 <p align="left" style="margin-top: 5px;">
   <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"/></a>
   <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo" /></a>
+ <a href="https://wa.me/5533998217341" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="33" alt="Whatsapp Logo" /></a>
 </p>
 
 <div style="clear: both;"></div> 
