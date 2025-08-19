@@ -37,8 +37,25 @@
 ### ⭐ Projetos em Destaque
 
 <table>
-  <tr>
-    <td width="50%">
+  <tr valign="top">
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
+      <h4 align="center">Pokédex com React</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/pokedex-react" target="_blank">
+          <img src="/img/Demonstração da Pokédex em React.gif" alt="Demonstração da Pokédex em React" width="300"/>
+        </a>
+      </p>
+      <p>Aplicação web moderna construída com <strong>React e Vite</strong> para demonstrar habilidades em componentização, gerenciamento de estado com Hooks (<code>useState</code>, <code>useEffect</code>) e consumo de APIs REST.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/pokedex-react" target="_blank"><strong>Ver Repositório →</strong></a>
+      </p>
+    </td>
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
       <h4 align="center">Estudo de Caso Back-end (Java)</h4>
       <p align="center">
         <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
@@ -55,38 +72,38 @@
         <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>Ver Repositório →</strong></a>
       </p>
     </td>
-    <td width="50%">
-      <h4 align="center">MovieFlix (Flutter)</h4>
-      <p align="center">
-        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
-          <img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
-        </a>
-      </p>
-      <p>Aplicativo mobile que consome a API do The Movie Database (TMDb), demonstrando habilidades em consumo de APIs REST, gerenciamento de estado e construção de UIs declarativas.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-      </p>
-      <p align="center">
-        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>Ver Repositório →</strong></a>
-      </p>
-    </td>
   </tr>
-  <tr>
-    <td colspan="2" width="100%">
+  <tr valign="top">
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
       <h4 align="center">Arquitetura de Software (C++)</h4>
       <p align="center">
         <a href="https://github.com/gui-ccr/libman-cpp" target="_blank">
-          <img src="img/Demonstração do Sistema em C++.gif" alt="Demonstração do Sistema em C++" width="300"/>
+          <img src="/img/Demonstração do Sistema em C++.gif" alt="Demonstração do Sistema em C++" width="300"/>
         </a>
       </p>
-      <p align="center">Um mergulho técnico em C++ para demonstrar domínio de conceitos fundamentais da engenharia de software: Polimorfismo, classes abstratas e, principalmente, gerenciamento de memória moderno e seguro com <strong>ponteiros inteligentes (std::unique_ptr)</strong>.</p>
+      <p align="center">Mergulho técnico em C++ para demonstrar domínio de Polimorfismo e gerenciamento de memória moderno com <strong>ponteiros inteligentes (std::unique_ptr)</strong>.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Build-Makefile-C71A36?style=plastic&logo=gnu-make&logoColor=white">
       </p>
       <p align="center">
         <a href="https://github.com/gui-ccr/libman-cpp" target="_blank"><strong>Ver Repositório →</strong></a>
+      </p>
+    </td>
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
+      <h4 align="center">MovieFlix (Flutter)</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
+          <img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
+        </a>
+      </p>
+      <p>Aplicativo mobile que consome a API do TMDb, demonstrando habilidades em consumo de APIs REST, gerenciamento de estado e UIs declarativas.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>Ver Repositório →</strong></a>
       </p>
     </td>
   </tr>
@@ -151,15 +168,32 @@
 
 ---
 
-### ⭐ Top Projects
+### ⭐ Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
+  <tr valign="top">
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
+      <h4 align="center">Pokédex with React</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/pokedex-react" target="_blank">
+          <img src="/img/Demonstração da Pokédex em React.gif" alt="Pokédex with React Demo" width="300"/>
+        </a>
+      </p>
+      <p>A modern web application built with <strong>React and Vite</strong> to demonstrate skills in componentization, state management with Hooks (<code>useState</code>, <code>useEffect</code>), and REST API consumption.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/pokedex-react" target="_blank"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
       <h4 align="center">Back-end Case Study (Java)</h4>
       <p align="center">
         <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
-          <img src="https://github.com/gui-ccr/rpg-batalha-console-java/blob/main/assets/Gameplay.gif?raw=true" alt="Gameplay do RPG de Terminal" width="300"/>
+          <img src="https://github.com/gui-ccr/rpg-batalha-console-java/blob/main/assets/Gameplay.gif?raw=true" alt="Terminal RPG Gameplay" width="300"/>
         </a>
       </p>
       <p>A terminal-based RPG system focused on demonstrating OOP logic, software architecture (CRUD), and database interaction. A solid foundation for building any type of application.</p>
@@ -172,38 +206,38 @@
         <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>View Repository →</strong></a>
       </p>
     </td>
-    <td width="50%">
-      <h4 align="center">MovieFlix (Flutter)</h4>
-      <p align="center">
-        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
-          <img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
-        </a>
-      </p>
-      <p>Mobile application that consumes The Movie Database (TMDb) API, demonstrating skills in consuming REST APIs, managing state, and building declarative UIs.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-      </p>
-      <p align="center">
-        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
-      </p>
-    </td>
   </tr>
-  <tr>
-    <td colspan="2" width="100%">
+  <tr valign="top">
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
       <h4 align="center">Software Architecture (C++)</h4>
       <p align="center">
         <a href="https://github.com/gui-ccr/libman-cpp" target="_blank">
-          <img src="img/Demonstração do Sistema em C++.gif" alt="Demonstração do Sistema em C++" width="300"/>
+          <img src="/img/Demonstração do Sistema em C++.gif" alt="C++ System Demo" width="300"/>
         </a>
       </p>
-      <p align="center">A technical dive into C++ to demonstrate mastery of fundamental software engineering concepts: Polymorphism, abstract classes and, most importantly, modern and safe memory management with <strong>smart pointers (std::unique_ptr)</strong>.</p>
+      <p align="center">A technical deep-dive into C++ to demonstrate mastery of Polymorphism and modern, safe memory management with <strong>smart pointers (std::unique_ptr)</strong>.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Build-Makefile-C71A36?style=plastic&logo=gnu-make&logoColor=white">
       </p>
       <p align="center">
         <a href="https://github.com/gui-ccr/libman-cpp" target="_blank"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+    <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
+      <h4 align="center">MovieFlix (Flutter)</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
+          <img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="App Demo" width="100"/>
+        </a>
+      </p>
+      <p>A mobile app that consumes the TMDb API, demonstrating skills in REST API consumption, state management, and declarative UIs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
       </p>
     </td>
   </tr>
