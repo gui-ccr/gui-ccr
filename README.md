@@ -151,43 +151,62 @@
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Top Projects
 
 <table>
-<tr>
-<td width="50%">
-<h4 align="center">RPG de Terminal (Java)</h4>
-<p align="center">
-<a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
-<img src="https://github.com/gui-ccr/rpg-batalha-console-java/blob/main/assets/Gameplay.gif?raw=true" alt="Gameplay do RPG de Terminal" width="300"/>
-</a>
-</p>
-<p>A terminal-based RPG system focused on demonstrating object-oriented programming logic, software architecture, and database interaction—a solid foundation for building any type of application.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
-</p>
-<p align="center">
-<a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>View Repository →</strong></a>
-</p>
-<td width="50%">
-<h4 align="center">MovieFlix (Flutter)</h4>
-<p align="center">
-<a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
-<img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
-</a>
-</p>
-<p>A mobile app that consumes The Movie Database (TMDb) API. This project demonstrates skills in consuming REST APIs, state management, and building declarative UIs, concepts also applicable to web development.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-</p>
-<p align="center">
-<a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
-</p>
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">Back-end Case Study (Java)</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank">
+          <img src="https://github.com/gui-ccr/rpg-batalha-console-java/blob/main/assets/Gameplay.gif?raw=true" alt="Gameplay do RPG de Terminal" width="300"/>
+        </a>
+      </p>
+      <p>A terminal-based RPG system focused on demonstrating OOP logic, software architecture (CRUD), and database interaction. A solid foundation for building any type of application.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/rpg-batalha-console-java" target="_blank"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">MovieFlix (Flutter)</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank">
+          <img src="https://github.com/gui-ccr/MovieFlix_App/blob/main/image/gif%20app.gif?raw=true" alt="Demonstração do Aplicativo" width="100"/>
+        </a>
+      </p>
+      <p>Mobile application that consumes The Movie Database (TMDb) API, demonstrating skills in consuming REST APIs, managing state, and building declarative UIs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%">
+      <h4 align="center">Software Architecture (C++)</h4>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/libman-cpp" target="_blank">
+          <img src="img/Demonstração do Sistema em C++.gif" alt="Demonstração do Sistema em C++" width="300"/>
+        </a>
+      </p>
+      <p align="center">A technical dive into C++ to demonstrate mastery of fundamental software engineering concepts: Polymorphism, abstract classes and, most importantly, modern and safe memory management with <strong>smart pointers (std::unique_ptr)</strong>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Build-Makefile-C71A36?style=plastic&logo=gnu-make&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/gui-ccr/libman-cpp" target="_blank"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
