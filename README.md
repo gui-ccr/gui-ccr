@@ -36,7 +36,7 @@
 
   
 <details>
-<summary><strong>⭐ Projetos em Destaque (Clique para expandir)</strong></summary>
+<summary><strong>⭐ Projetos em Destaque</strong></summary>
 <br>
 
 <table>
