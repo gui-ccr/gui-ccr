@@ -39,7 +39,7 @@
 <table>
   <tr valign="top">
     <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
-      <h4 align="center">Pokédex com React</h4>
+      <h4 align="center">Website Pokédex (React)</h4>
       <p align="center">
         <a href="https://github.com/gui-ccr/pokedex-react" target="_blank">
           <img src="/img/Demonstração da Pokédex em React.gif" alt="Demonstração da Pokédex em React" width="300"/>
@@ -173,7 +173,7 @@
 <table>
   <tr valign="top">
     <td width="50%" style="background-color: #2d333b; border-radius: 10px;">
-      <h4 align="center">Pokédex with React</h4>
+      <h4 align="center">Website Pokédex  (React)</h4>
       <p align="center">
         <a href="https://github.com/gui-ccr/pokedex-react" target="_blank">
           <img src="/img/Demonstração da Pokédex em React.gif" alt="Pokédex with React Demo" width="300"/>
