@@ -104,6 +104,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
+        <img src="https://img.shields.io/badge/API-TMDB-blue?style=plastic&logo=themoviedatabase&logoColor=white" alt="API TMDB">
       </p>
       <p align="center">
         <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>Ver Repositório →</strong></a>
@@ -243,6 +244,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
+        <img src="https://img.shields.io/badge/API-TMDB-blue?style=plastic&logo=themoviedatabase&logoColor=white" alt="API TMDB">
       </p>
       <p align="center">
         <a href="https://github.com/gui-ccr/MovieFlix_App" target="_blank"><strong>View Repository →</strong></a>
