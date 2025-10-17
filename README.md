@@ -29,7 +29,7 @@
   <br>
   - 🌱 Atualmente aprofundando meus conhecimentos no ecossistema React, componentização e gerenciamento de estado.
   <br>
-  - 📄 Você pode conferir meu <a href="https://drive.google.com/file/d/1p9HDEpxhFtN4wEg9mEUte1UXVDjfciSm/view?usp=sharing">currículo</a> para mais detalhes, ou então de uma olhada no <a href="https://gui-ccr.github.io/Portifolio-Website/">Meu Portifolio<a/>.
+  - 📄 Você pode conferir meu <a href="https://drive.google.com/drive/folders/1PWaoZQ502i-eyCS0nxRjxY_txYIJSeIK">currículo</a> para mais detalhes, ou então de uma olhada no <a href="https://gui-ccr.github.io/Portifolio-Website/">Meu Portifolio<a/>.
 </details>
 
 ---
@@ -93,7 +93,7 @@
   <br>
   - 🌱 Currently deepening my knowledge of the React ecosystem, componentization, and state management.
   <br>
-  - 📄 You can check my <a href="https://drive.google.com/file/d/1p9HDEpxhFtN4wEg9mEUte1UXVDjfciSm/view?usp=sharing">resume</a> for more details or you can take a look at my <a href="https://gui-ccr.github.io/Portifolio-Website/">Portfolio<a/>.
+  - 📄 You can check my <a href="https://drive.google.com/drive/folders/1PWaoZQ502i-eyCS0nxRjxY_txYIJSeIK">resume</a> for more details or you can take a look at my <a href="https://gui-ccr.github.io/Portifolio-Website/">Portfolio<a/>.
 </details>
 
 ---
