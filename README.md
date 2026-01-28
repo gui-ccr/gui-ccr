@@ -1,140 +1,136 @@
-<img align="right" width="500px" style="margin-top: -20px; margin-right: 20px;" src="img/banner.png">
+<img align="right" width="450px" src="img/banner.png" alt="Banner do Perfil">
 
-<h3 align="left" style="font-size: 4em; margin-bottom: 0; line-height: 1.2;">Guilherme Rodrigues</h3>
-<p align="left" style="margin-top: 5px;">
-  <strong>Desenvolvedor FrontEnd</strong>
-</p>
-<p align="left" style="margin-top: 5px;">
-  <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"/></a>
-  <a href="mailto:guilhermerodrigues6484@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo" /></a>
- <a href="https://wa.me/5533998217341" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="33" alt="Whatsapp Logo" /></a>
+<h1 align="left">Guilherme Rodrigues</h1>
+
+<p align="left">
+  <strong>Desenvolvedor Front-End</strong>
 </p>
 
-<div style="clear: both;"></div> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilhermerodrigues6484@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/5533998217341" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+<br>
 
 <details open>
-<summary>🇧🇷 Português</summary>
-  
-<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
-<p align="left">
-  Olá! Sou Guilherme, um desenvolvedor com foco em <strong>criar experiências de usuário ricas e interativas para a web com React</strong>. Minha paixão é transformar ideias em interfaces funcionais, escaláveis e visualmente agradáveis.
-  <br/><br/>
-  Embora meu foco atual seja o front-end, minha experiência com <strong>Java no backend</strong> e <strong>Flutter no mobile</strong> me proporciona uma visão completa do ecossistema de software, permitindo-me construir soluções coesas e eficientes de ponta a ponta. Com minha base em Análise e Desenvolvimento de Sistemas (TADS) 🎓, busco uma oportunidade de estágio para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos web desafiadores.
-</p>
+<summary>🇧🇷 <strong>Português</strong> (Clique para fechar)</summary>
+<br>
 
-<details>
-  <summary>😎 Mais sobre mim</summary>
-  <br>
-  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal do Norte de Minas Gerais (IFNMG), com previsão de término em 2027.
-  <br>
-  - 🌱 Atualmente aprofundando meus conhecimentos no ecossistema React, componentização e gerenciamento de estado.
-  <br>
-  - 📄 Você pode conferir meu <a href="https://drive.google.com/drive/folders/1PWaoZQ502i-eyCS0nxRjxY_txYIJSeIK">currículo</a> para mais detalhes, ou então de uma olhada no <a href="https://gui-ccr.github.io/Portifolio-Website/">Meu Portifolio<a/>.
-</details>
+### 👨‍💻 Sobre Mim
+
+Meu foco é construir aplicações web resilientes. Acredito que o Front-End exige a mesma **disciplina de engenharia** que o Back-End, não apenas estética.
+
+Minha abordagem é pautada por **Arquitetura de Software**, **Performance (Core Web Vitals)** e **Manutenibilidade**. Utilizo minha base acadêmica em Análise de Sistemas para aplicar princípios sólidos no desenvolvimento de interfaces complexas e escaláveis.
+
+* 🧠 **Foco Técnico:** Clean Architecture, SOLID, Componentização Inteligente e Otimização.
+* 🌱 **Estudando:** Padrões de arquitetura de Backend (NestJS/Express) para ter uma visão Fullstack completa.
+* 💼 **Objetivo:** Oportunidade como Estagiário ou Júnior onde eu possa aplicar meus conhecimentos e crescer tecnicamente.
 
 ---
 
-### 🚀 Minhas Habilidades
+### 🛠 Tech Stack
 
-<p align="left">
-  <strong>Front-End</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=FFF">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white">
-</p>
-<p align="left">
-  <strong>Backend & Mobile</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-</p>
-<p align="left">
-  <strong>Ferramentas & Outros</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white">
-</p>
+**Core & Interface**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+**Backend & Infra Awareness**
+<br>
+<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
 
 ---
 
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=pt-br&hide_border=true&cache_seconds=3600" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Linguagens mais usadas" />
+### 🚀 Experiência Real & Projetos
+
+**🏢 Sistema de Gestão de Condomínios (SaaS)**
+Desenvolvi a interface e a lógica de negócio de uma plataforma multi-tenant.
+- **Engenharia:** Implementei controle de acesso dinâmico (**RBAC**) e integrei com **Row Level Security (RLS)** do Supabase para garantir isolamento total dos dados entre clientes.
+- **Impacto:** Criação de dashboards administrativos complexos e responsivos.
+
+**📅 Agendai (Ecossistema Completo)**
+Desenvolvimento integral de 3 aplicações conectadas: Landing Page, Portal do Cliente e ERP/CRM da empresa.
+- **Full Cycle:** Responsável por todo o fluxo, desde a arquitetura do Banco de Dados até a construção dos front-ends interligados.
+- **Engenharia:** Planejamento de backend dedicado e implementação de regras de negócio complexas distribuídas entre as interfaces.
+---
+
+### 📊 Github Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="Top Languages" />
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" alt="Snake animation" />
-</div>
+<br>
+<img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Snake animation" />
 
 </details>
 
 <details>
-<summary>🇬🇧 English</summary>
-  
-<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
-<p align="left">
-  Hi! I'm Guilherme, a developer focused on <strong>crafting rich and interactive user experiences for the web with React</strong>. My passion is to turn ideas into functional, scalable, and visually appealing interfaces.
-  <br/><br/>
-  While my actual focus is front-end, my experience with <strong>Java on the backend</strong> and <strong>Flutter for mobile</strong> gives me a comprehensive view of the software ecosystem, enabling me to build cohesive and efficient end-to-end solutions. With my background in Systems Analysis and Development (TADS) 🎓, I am seeking an internship opportunity to apply my skills, learn from an experienced team, and contribute to challenging web projects.
-</p>
+<summary>🇬🇧 <strong>English</strong> (Click to expand)</summary>
+<br>
 
-<details>
-  <summary>😎 More about me</summary>
-  <br>
-  - 🎓 Undergraduate in Systems Analysis and Development at the Federal Institute of North Minas Gerais (IFNMG), expected to graduate in 2027.
-  <br>
-  - 🌱 Currently deepening my knowledge of the React ecosystem, componentization, and state management.
-  <br>
-  - 📄 You can check my <a href="https://drive.google.com/drive/folders/1PWaoZQ502i-eyCS0nxRjxY_txYIJSeIK">resume</a> for more details or you can take a look at my <a href="https://gui-ccr.github.io/Portifolio-Website/">Portfolio<a/>.
-</details>
+### 👨‍💻 About Me
 
----
-### 🚀 My Skills
+My focus is on building resilient web applications. I believe Front-End development demands the same **engineering discipline** as Back-End, not just aesthetics.
 
-<p align="left">
-  <strong>Front-End</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=FFF">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white">
-</p>
-<p align="left">
-  <strong>Backend & Mobile</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-</p>
-<p align="left">
-  <strong>Tools & Others</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white">
-</p>
+My approach is driven by **Software Architecture**, **Performance (Core Web Vitals)**, and **Maintainability**. I leverage my academic background in Systems Analysis to apply solid engineering principles to the development of complex and scalable interfaces.
+
+* 🧠 **Technical Focus:** Clean Architecture, SOLID, Smart Componentization, and Optimization.
+* 🌱 **Learning:** Backend Architectural Patterns (NestJS/Express) to achieve a complete Fullstack vision.
+* 💼 **Goal:** Internship or Junior role where I can apply my knowledge and grow technically.
 
 ---
 
-### 📊 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&locale=en&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&cache_seconds=3600" height="150" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" alt="Snake animation" />
+### 🛠 Tech Stack
+
+**Core & Interface**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+**Backend & Infra Awareness**
+<br>
+<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+
+---
+
+### 🚀 Real-World Experience & Projects
+
+**🏢 Condo Management System (SaaS)**
+Developed the interface and business logic for a multi-tenant platform.
+- **Engineering:** Implemented dynamic access control (**RBAC**) and integrated with Supabase **Row Level Security (RLS)** to ensure total data isolation between clients.
+- **Impact:** Built complex and responsive administrative dashboards.
+
+**📅 Agendai (Complete Ecosystem)**
+End-to-end development of 3 connected applications: Landing Page, Client Portal, and Company ERP/CRM.
+- **Full Cycle:** Responsible for the entire workflow, from Database architecture to the construction of interconnected front-ends.
+- **Engineering:** Planning of a dedicated backend and implementation of complex business rules distributed across interfaces.
+
+---
+
+### 📊 Github Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=en" height="150" alt="Top Languages" />
 </div>
 
 </details>
