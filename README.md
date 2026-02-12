@@ -3,7 +3,7 @@
 <h1 align="left">Guilherme Rodrigues</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Front-End</strong>
+  <strong>Desenvolvedor Fullstack | Front-End Specialist</strong>
 </p>
 
 <p align="left">
@@ -26,13 +26,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Meu foco é construir aplicações web resilientes. Acredito que o Front-End exige a mesma **disciplina de engenharia** que o Back-End, não apenas estética.
+Meu foco é construir **ecossistemas de software completos**. Acredito que um desenvolvedor de alto nível deve dominar a engenharia da aplicação de ponta a ponta, garantindo segurança no Backend e experiência fluida no Front-End.
 
-Minha abordagem é pautada por **Arquitetura de Software**, **Performance (Core Web Vitals)** e **Manutenibilidade**. Utilizo minha base acadêmica em Análise de Sistemas para aplicar princípios sólidos no desenvolvimento de interfaces complexas e escaláveis.
+Minha abordagem é pautada por **Arquitetura de Software**, **Performance** e **Lógica de Negócio**. Utilizo minha base em Análise de Sistemas para modelar bancos de dados relacionais e criar interfaces complexas e escaláveis.
 
-* 🧠 **Foco Técnico:** Clean Architecture, SOLID, Componentização Inteligente e Otimização.
-* 🌱 **Estudando:** Padrões de arquitetura de Backend (NestJS/Express) para ter uma visão Fullstack completa.
-* 💼 **Objetivo:** Oportunidade como Estagiário ou Júnior onde eu possa aplicar meus conhecimentos e crescer tecnicamente.
+* 🧠 **Foco Técnico:** Clean Architecture, SOLID, Lógica de Programação e Segurança de Dados.
+* 🌱 **Estudando:** Engenharia de Software focada em Backend (**Node.js, Express e NestJS**) para construção de APIs robustas e escaláveis.
+* 💼 **Objetivo:** Oportunidade como Desenvolvedor Fullstack ou Front-End onde eu possa aplicar minha visão sistêmica.
 
 ---
 
@@ -45,26 +45,29 @@ Minha abordagem é pautada por **Arquitetura de Software**, **Performance (Core 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-**Backend & Infra Awareness**
+**Backend & Dados**
 <br>
 <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
 
 ---
 
 ### 🚀 Experiência Real & Projetos
 
-**🏢 Sistema de Gestão de Condomínios (SaaS)**
-Desenvolvi a interface e a lógica de negócio de uma plataforma multi-tenant.
-- **Engenharia:** Implementei controle de acesso dinâmico (**RBAC**) e integrei com **Row Level Security (RLS)** do Supabase para garantir isolamento total dos dados entre clientes.
-- **Impacto:** Criação de dashboards administrativos complexos e responsivos.
+**🏢 Sistema Integrado de Gestão de Condomínios (ERP SaaS)**
+*Desenvolvimento integral (Fullstack) de uma plataforma com mais de 24 interfaces.*
+- **Segurança (RBAC + RLS):** Implementei controle de acesso granular para diferentes perfis (Engenheiro/Síndico) e isolamento de dados no banco.
+- **Integração Mobile:** Criei a lógica de comunicação e mensageria entre o ERP Web e o aplicativo mobile dos síndicos.
+- **Complexidade:** Módulos financeiros, cadastro de funcionários e gestão de chamados.
 
-**📅 Agendai (Ecossistema Completo)**
-Desenvolvimento integral de 3 aplicações conectadas: Landing Page, Portal do Cliente e ERP/CRM da empresa.
-- **Full Cycle:** Responsável por todo o fluxo, desde a arquitetura do Banco de Dados até a construção dos front-ends interligados.
-- **Engenharia:** Planejamento de backend dedicado e implementação de regras de negócio complexas distribuídas entre as interfaces.
+**📅 Agendai (Ecossistema Multi-App)**
+*Plataforma completa composta por 3 aplicações: Portal do Cliente, ERP da Empresa e Landing Page.*
+- **Features Avançadas:** Sistema **White-Label** (personalização por empresa), **Geolocalização** (Google Maps) e atualizações em tempo real (WebSockets).
+- **Arquitetura:** Hybrid Rendering (SSR + SPA) com Next.js para otimização de SEO e performance.
+- **Dados:** Modelagem relacional complexa para suportar agenda e disponibilidade de prestadores.
+
 ---
 
 ### 📊 Github Stats
@@ -84,13 +87,13 @@ Desenvolvimento integral de 3 aplicações conectadas: Landing Page, Portal do C
 
 ### 👨‍💻 About Me
 
-My focus is on building resilient web applications. I believe Front-End development demands the same **engineering discipline** as Back-End, not just aesthetics.
+My focus is on building **complete software ecosystems**. I believe a high-level developer must master end-to-end engineering, ensuring security on the Backend and a fluid experience on the Front-End.
 
-My approach is driven by **Software Architecture**, **Performance (Core Web Vitals)**, and **Maintainability**. I leverage my academic background in Systems Analysis to apply solid engineering principles to the development of complex and scalable interfaces.
+My approach is driven by **Software Architecture**, **Performance**, and **Business Logic**. I leverage my background in Systems Analysis to model relational databases and create complex, scalable interfaces.
 
-* 🧠 **Technical Focus:** Clean Architecture, SOLID, Smart Componentization, and Optimization.
-* 🌱 **Learning:** Backend Architectural Patterns (NestJS/Express) to achieve a complete Fullstack vision.
-* 💼 **Goal:** Internship or Junior role where I can apply my knowledge and grow technically.
+* 🧠 **Technical Focus:** Clean Architecture, SOLID, Logic & Algorithms, and Data Security.
+* 🌱 **Learning:** Software Engineering with a focus on Backend (**Node.js, Express, and NestJS**) to build robust and scalable APIs.
+* 💼 **Goal:** Opportunity as a Fullstack or Front-End Developer where I can apply my systemic vision.
 
 ---
 
@@ -103,26 +106,28 @@ My approach is driven by **Software Architecture**, **Performance (Core Web Vita
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-**Backend & Infra Awareness**
+**Backend & Data**
 <br>
 <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
 
 ---
 
 ### 🚀 Real-World Experience & Projects
 
-**🏢 Condo Management System (SaaS)**
-Developed the interface and business logic for a multi-tenant platform.
-- **Engineering:** Implemented dynamic access control (**RBAC**) and integrated with Supabase **Row Level Security (RLS)** to ensure total data isolation between clients.
-- **Impact:** Built complex and responsive administrative dashboards.
+**🏢 Condo Management System (ERP SaaS)**
+*Fullstack development of a platform with over 24 interfaces.*
+- **Security (RBAC + RLS):** Implemented granular access control for different roles (Engineer/Manager) and data isolation in the DB.
+- **Mobile Integration:** Created the communication logic and messaging system between the Web ERP and the mobile app.
+- **Complexity:** Financial modules, employee registration, and maintenance ticket management.
 
-**📅 Agendai (Complete Ecosystem)**
-End-to-end development of 3 connected applications: Landing Page, Client Portal, and Company ERP/CRM.
-- **Full Cycle:** Responsible for the entire workflow, from Database architecture to the construction of interconnected front-ends.
-- **Engineering:** Planning of a dedicated backend and implementation of complex business rules distributed across interfaces.
+**📅 Agendai (Multi-App Ecosystem)**
+*Complete platform consisting of 3 applications: Client Portal, Company ERP, and Landing Page.*
+- **Advanced Features:** **White-Label** system, **Geolocation** (Google Maps), and Real-Time updates (WebSockets).
+- **Architecture:** Hybrid Rendering (SSR + SPA) with Next.js for SEO and performance optimization.
+- **Data:** Complex relational modeling to support scheduling and provider availability.
 
 ---
 
