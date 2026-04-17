@@ -3,7 +3,7 @@
 <h1 align="left">Guilherme Rodrigues</h1>
 
 <p align="left">
-  <strong>Engenheiro de Software Full Stack | Front-End Specialist</strong>
+  <strong>Engenheiro de Software Full Stack</strong>
 </p>
 
 <p align="left">
@@ -30,26 +30,39 @@ Meu foco é construir **ecossistemas de software completos**. Acredito que um de
 
 Minha abordagem é pautada por **Arquitetura de Software**, **Performance** e **Lógica de Negócio**. Utilizo minha base em Análise de Sistemas para modelar bancos de dados relacionais e criar interfaces complexas e escaláveis.
 
-* 🧠 **Foco Técnico:** Clean Architecture, SOLID, Lógica de Programação e Segurança de Dados.
-* 🌱 **Estudando:** Engenharia de Software focada em Backend (**Node.js, Express e NestJS**) para construção de APIs robustas e escaláveis.
-* 💼 **Objetivo:** Oportunidade como Desenvolvedor Fullstack ou Front-End onde eu possa aplicar minha visão sistêmica.
+* 🧠 **Foco Técnico:** Clean Architecture, SOLID, DDD (Padrões Táticos) e Segurança de Dados.
+* 🌱 **Estudando:** Engenharia de Software avançada, focado em padrões de arquitetura e sistemas distribuídos.
+* 💼 **Objetivo:** Oportunidade como Desenvolvedor Fullstack ou Engenheiro de Software.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Core & Interface**
+**Frontend & Interface**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
 
-**Backend & Dados**
+**Backend, Dados & Segurança**
 <br>
-<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=Stripe&logoColor=white">
+<img src="https://img.shields.io/badge/RLS/RBAC-red?style=for-the-badge&logo=security&logoColor=white">
+
+**Engenharia & Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white">
+<img src="https://img.shields.io/badge/SOLID-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/DDD-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ---
 
@@ -57,15 +70,13 @@ Minha abordagem é pautada por **Arquitetura de Software**, **Performance** e **
 
 **🏢 Sistema Integrado de Gestão de Condomínios (ERP SaaS)**
 *Desenvolvimento integral (Fullstack) de uma plataforma com mais de 24 interfaces.*
-- **Segurança (RBAC + RLS):** Implementei controle de acesso granular para diferentes perfis (Engenheiro/Síndico) e isolamento de dados no banco.
-- **Integração Mobile:** Criei a lógica de comunicação e mensageria entre o ERP Web e o aplicativo mobile dos síndicos.
-- **Complexidade:** Módulos financeiros, cadastro de funcionários e gestão de chamados.
+- **Segurança (RBAC + RLS):** Implementei controle de acesso granular para diferentes perfis e isolamento total de dados no banco.
+- **Engenharia:** Módulos financeiros complexos e gestão administrativa focada em escalabilidade.
 
 **📅 Agendai (Ecossistema Multi-App)**
 *Plataforma completa composta por 3 aplicações: Portal do Cliente, ERP da Empresa e Landing Page.*
-- **Features Avançadas:** Sistema **White-Label** (personalização por empresa), **Geolocalização** (Google Maps) e atualizações em tempo real (WebSockets).
-- **Arquitetura:** Hybrid Rendering (SSR + SPA) com Next.js para otimização de SEO e performance.
-- **Dados:** Modelagem relacional complexa para suportar agenda e disponibilidade de prestadores.
+- **Features Avançadas:** Sistema **White-Label**, **Geolocalização** (Google Maps) e integrações de pagamento via Stripe.
+- **Arquitetura:** Next.js (App Router) com foco em performance e SEO.
 
 ---
 
@@ -88,44 +99,51 @@ Minha abordagem é pautada por **Arquitetura de Software**, **Performance** e **
 
 My focus is on building **complete software ecosystems**. I believe a high-level developer must master end-to-end engineering, ensuring security on the Backend and a fluid experience on the Front-End.
 
-My approach is driven by **Software Architecture**, **Performance**, and **Business Logic**. I leverage my background in Systems Analysis to model relational databases and create complex, scalable interfaces.
-
-* 🧠 **Technical Focus:** Clean Architecture, SOLID, Logic & Algorithms, and Data Security.
-* 🌱 **Learning:** Software Engineering with a focus on Backend (**Node.js, Express, and NestJS**) to build robust and scalable APIs.
-* 💼 **Goal:** Opportunity as a Fullstack or Front-End Developer where I can apply my systemic vision.
+* 🧠 **Technical Focus:** Clean Architecture, SOLID, DDD (Tactical Patterns), and Data Security.
+* 🌱 **Learning:** Advanced Software Engineering, focused on architectural patterns and distributed systems.
+* 💼 **Goal:** Opportunity as a Fullstack Developer or Software Engineer.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Core & Interface**
+**Frontend & Interface**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
 
-**Backend & Data**
+**Backend, Data & Security**
 <br>
-<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=Stripe&logoColor=white">
+<img src="https://img.shields.io/badge/RLS/RBAC-red?style=for-the-badge&logo=security&logoColor=white">
+
+**Engineering & Tools**
+<br>
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white">
+<img src="https://img.shields.io/badge/SOLID-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/DDD-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ---
 
 ### 🚀 Real-World Experience & Projects
 
 **🏢 Condo Management System (ERP SaaS)**
-*Fullstack development of a platform with over 24 interfaces.*
-- **Security (RBAC + RLS):** Implemented granular access control for different roles (Engineer/Manager) and data isolation in the DB.
-- **Mobile Integration:** Created the communication logic and messaging system between the Web ERP and the mobile app.
-- **Complexity:** Financial modules, employee registration, and maintenance ticket management.
+- **Security (RBAC + RLS):** Implemented granular access control and total data isolation.
+- **Engineering:** Complex financial modules and administrative management focused on scalability.
 
 **📅 Agendai (Multi-App Ecosystem)**
-*Complete platform consisting of 3 applications: Client Portal, Company ERP, and Landing Page.*
-- **Advanced Features:** **White-Label** system, **Geolocation** (Google Maps), and Real-Time updates (WebSockets).
-- **Architecture:** Hybrid Rendering (SSR + SPA) with Next.js for SEO and performance optimization.
-- **Data:** Complex relational modeling to support scheduling and provider availability.
+- **Advanced Features:** **White-Label** system, **Geolocation**, and Stripe payment integrations.
+- **Architecture:** Next.js (App Router) focused on performance and SEO.
 
 ---
 
