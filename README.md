@@ -3,7 +3,7 @@
 <h1 align="left">Guilherme Rodrigues</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Fullstack | Front-End Specialist</strong>
+  <strong>Engenheiro de Software Full Stack | Front-End Specialist</strong>
 </p>
 
 <p align="left">
