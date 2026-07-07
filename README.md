@@ -79,13 +79,10 @@ Minha abordagem é pautada por **Arquitetura de Software**, **Performance** e **
 - **Arquitetura:** Next.js (App Router) com foco em performance e SEO.
 
 ---
-
 ### 📊 Github Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="Top Languages" />
-</div>
+[![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/gui-ccr)
+[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/gui-ccr)
 <br>
 <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Snake animation" />
 
@@ -149,9 +146,7 @@ My focus is on building **complete software ecosystems**. I believe a high-level
 
 ### 📊 Github Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=en" height="150" alt="Top Languages" />
-</div>
+[![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/gui-ccr)
+[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/gui-ccr)
 
 </details>
