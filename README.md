@@ -16,6 +16,9 @@
   <a href="https://wa.me/5533998217341" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp">
   </a>
+  <a href="https://www.gui-ccr.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-6D28D9?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 <br>
