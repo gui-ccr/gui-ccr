@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="">
+<title></title>
+
+<defs>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+</defs>
+<style>@keyframes w{to{transform:translateX(-600px)}}.a{animation:w 14s linear infinite}.b{animation:w 9s linear infinite}.c{animation:w 6s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g opacity=".16"><path class="a" d="M0 44 Q150 18 300 44 T600 44 T900 44 T1200 44 T1500 44 T1800 44 V110 H0Z" fill="url(#a)"/></g>
+<g opacity=".26"><path class="b" d="M0 58 Q150 38 300 58 T600 58 T900 58 T1200 58 T1500 58 T1800 58 V110 H0Z" fill="url(#a)"/></g>
+<g opacity=".55"><path class="c" d="M0 74 Q150 60 300 74 T600 74 T900 74 T1200 74 T1500 74 T1800 74 V110 H0Z" fill="url(#a)"/></g>
+</svg>

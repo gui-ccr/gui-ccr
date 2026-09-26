@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Guilherme Rodrigues — Full Stack Software Engineer">
+<title>Guilherme Rodrigues — Full Stack Software Engineer</title>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0b"/><stop offset="1" stop-color="#101018"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#e0e7ff"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+  <radialGradient id="glowA"><stop offset="0" stop-color="#6366f1" stop-opacity=".32"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowB"><stop offset="0" stop-color="#f59e0b" stop-opacity=".16"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gold" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fde68a"/><stop offset=".55" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient>
+  <radialGradient id="ind" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#c7d2fe"/><stop offset=".55" stop-color="#6366f1"/><stop offset="1" stop-color="#312e81"/></radialGradient>
+  <radialGradient id="cy" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#a5f3fc"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#155e75"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  <linearGradient id="gridFade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff"/></linearGradient>
+  <mask id="gm"><rect width="1200" height="340" fill="url(#gridFade)"/></mask>
+  <clipPath id="card"><rect width="1200" height="340" rx="24"/></clipPath>
+  <clipPath id="c0"><rect class="w0" x="100" y="248" height="38" width="0"/></clipPath><clipPath id="c1"><rect class="w1" x="100" y="248" height="38" width="0"/></clipPath><clipPath id="c2"><rect class="w2" x="100" y="248" height="38" width="0"/></clipPath>
+</defs>
+<style>@keyframes t0{0%{width:0;animation-timing-function:steps(33,end)}15.4%{width:396px}27.333%{width:396px;animation-timing-function:steps(33,end)}31.333%{width:0}100%{width:0}}.w0{width:0;animation:t0 15s linear infinite}@keyframes t1{0%{width:0}33.333%{width:0;animation-timing-function:steps(32,end)}48.267%{width:384px}60.667%{width:384px;animation-timing-function:steps(32,end)}64.667%{width:0}100%{width:0}}.w1{width:0;animation:t1 15s linear infinite}@keyframes t2{0%{width:0}66.667%{width:0;animation-timing-function:steps(27,end)}79.267%{width:324px}94%{width:324px;animation-timing-function:steps(27,end)}98%{width:0}100%{width:0}}.w2{width:0;animation:t2 15s linear infinite}@keyframes cur{0%{transform:translateX(0)}0%{transform:translateX(0);animation-timing-function:steps(33,end)}15.4%{transform:translateX(396px)}27.333%{transform:translateX(396px);animation-timing-function:steps(33,end)}31.333%{transform:translateX(0)}33.333%{transform:translateX(0);animation-timing-function:steps(32,end)}48.267%{transform:translateX(384px)}60.667%{transform:translateX(384px);animation-timing-function:steps(32,end)}64.667%{transform:translateX(0)}66.667%{transform:translateX(0);animation-timing-function:steps(27,end)}79.267%{transform:translateX(324px)}94%{transform:translateX(324px);animation-timing-function:steps(27,end)}98%{transform:translateX(0)}100%{transform:translateX(0)}}.cur{animation:cur 15s linear infinite}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.blink{animation:blink 1s steps(1) infinite}.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.5s}.d4{animation-delay:.7s}
+@keyframes grow{from{width:0}to{width:72px}}.bar{animation:grow 1s .6s cubic-bezier(.2,.7,.2,1) both}
+@keyframes pulse{0%{r:4;opacity:1}70%{r:11;opacity:0}100%{r:11;opacity:0}}.pulse{animation:pulse 2s ease-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.o1{transform-origin:980px 170px;animation:spin 16s linear infinite}
+.o2{transform-origin:980px 170px;animation:spin 28s linear infinite reverse}
+.o3{transform-origin:980px 170px;animation:spin 44s linear infinite}
+@keyframes drift{50%{transform:translate(36px,-24px)}}.drift{animation:drift 14s ease-in-out infinite}
+@keyframes drift2{50%{transform:translate(-30px,20px)}}.drift2{animation:drift2 18s ease-in-out infinite}
+@keyframes core{50%{opacity:.55}}.core{animation:core 3.2s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.up{opacity:1!important}}@media (prefers-reduced-motion: reduce){.w0{width:396px!important}.cur,.blink{display:none}}</style>
+<g clip-path="url(#card)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)" mask="url(#gm)"/>
+  <circle class="drift" cx="980" cy="170" r="260" fill="url(#glowA)"/>
+  <circle class="drift2" cx="90" cy="340" r="230" fill="url(#glowB)"/>
+
+  <!-- orbit art -->
+  <g fill="none" stroke="#ffffff" stroke-opacity=".08">
+    <circle cx="980" cy="170" r="70"/><circle cx="980" cy="170" r="112" stroke-dasharray="3 7"/><circle cx="980" cy="170" r="152"/>
+  </g>
+  <g class="o1"><circle cx="1092" cy="170" r="13" fill="url(#gold)"/><circle cx="868" cy="170" r="7" fill="url(#cy)"/></g>
+  <g class="o2"><circle cx="980" cy="18" r="10" fill="url(#ind)"/><circle cx="980" cy="322" r="15" fill="url(#gold)"/></g>
+  <g class="o3"><circle cx="1050" cy="170" r="6" fill="url(#gold)"/><circle cx="910" cy="170" r="9" fill="url(#ind)"/></g>
+  <circle class="core" cx="980" cy="170" r="46" fill="#111114" stroke="#6366f1" stroke-opacity=".7" stroke-width="1.5"/>
+  <text x="980" y="181" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#f59e0b">&lt;/&gt;</text>
+
+  <!-- availability pill -->
+  <g class="up d1">
+    <rect x="72" y="44" width="230.6" height="32" rx="16" fill="#22c55e" fill-opacity=".08" stroke="#22c55e" stroke-opacity=".35"/>
+    <circle cx="90" cy="60" r="4" fill="#22c55e"/><circle class="pulse" cx="90" cy="60" r="4" fill="none" stroke="#22c55e"/>
+    <text x="104" y="65" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#86efac">Available for new projects</text>
+  </g>
+
+  <text class="up d2" x="72" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-2.5" fill="url(#name)">Guilherme Rodrigues</text>
+  <text class="up d3" x="72" y="206" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="28" font-weight="500" fill="#d4d4d8"><tspan fill="#f59e0b">Full Stack</tspan> Software Engineer</text>
+  <rect class="bar" x="72" y="226" width="72" height="3" rx="1.5" fill="#f59e0b"/>
+
+  <!-- typing line -->
+  <g class="up d4">
+    <text x="72" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" font-weight="700" fill="#f59e0b">&gt;</text>
+    <text clip-path="url(#c0)" x="100" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="396" lengthAdjust="spacing">Multi-tenant SaaS with RLS + RBAC</text><text clip-path="url(#c1)" x="100" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="384" lengthAdjust="spacing">Clean Architecture · DDD · SOLID</text><text clip-path="url(#c2)" x="100" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="324" lengthAdjust="spacing">From first commit to deploy</text>
+    <g class="cur"><g transform="translate(100,254)"><rect class="blink" x="1" width="2.5" height="26" rx="1" fill="#f59e0b"/></g></g>
+  </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="339" rx="24" fill="none" stroke="#26262b"/>
+</svg>

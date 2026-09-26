@@ -1,154 +1,124 @@
-<h1 align="left">Guilherme Rodrigues</h1>
+<div align="center">
 
-<img align="right" width="350px" src="img/banner.png" alt="Banner do Perfil">
+<img src="assets/header.pt.svg" alt="Guilherme Rodrigues — Engenheiro de Software Full Stack" width="100%">
 
-<p align="left">
-  <strong>Engenheiro de Software Full Stack Jr.</strong>
+<p>
+  <a href="https://www.gui-ccr.com.br"><img src="assets/btn-portfolio.pt.svg" height="44" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/gui-ccr-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+  <a href="mailto:contato@gui-ccr.com.br"><img src="assets/btn-email.svg" height="44" alt="contato@gui-ccr.com.br"></a>
+  <a href="https://www.gui-ccr.com.br/curriculo-pt.pdf"><img src="assets/btn-resume.pt.svg" height="44" alt="Currículo"></a>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gui-ccr-" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:guilhermerodrigues6484@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://wa.me/5533998217341" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.gui-ccr.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-6D28D9?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+<sub>🇧🇷 Português &nbsp;·&nbsp; <a href="README.en.md">🇬🇧 English</a></sub>
+
+<br><br>
+
+<img src="assets/stats.pt.svg" alt="1º lugar no Shark TADS · 11 pessoas lideradas · 12 alunos mentorados · 2 sistemas multi-tenant em produção" width="100%">
+
+</div>
 
 <br>
 
-<details open>
-<summary>🇧🇷 <strong>Português</strong> (Clique para fechar)</summary>
+## Sobre
+
+<img align="right" width="300" src="img/banner.png" alt="Memoji de Guilherme com o notebook">
+
+Sou **Engenheiro de Software Full Stack** e trabalho mais perto da **arquitetura** do que do "só fazer funcionar". Projeto, desenvolvo e coloco em produção **SaaS e ERPs multi-tenant**, do primeiro commit ao deploy, com TypeScript, PostgreSQL e uma infraestrutura pensada pra crescer sem virar dívida técnica.
+
+O que eu cuido antes da tela existir:
+
+- 🔐 **Isolamento de dados por tenant**: RLS e RBAC direto no PostgreSQL.
+- 🏛️ **Arquitetura em camadas**: Clean Architecture, DDD e SOLID no front e no back.
+- 🚢 **Infra e entrega**: Docker, Nginx (proxy reverso + rate-limit), CI/CD com GitHub Actions.
+- 🤝 **Liderança técnica**: code review, padrões de código e mentoria de quem está começando.
+
+Uso IA como parceira de trabalho, mas as decisões de arquitetura e segurança continuam sendo minhas.
+
 <br>
 
-### 👨‍💻 Sobre Mim
+## Trajetória
 
-Sou um **Engenheiro de Software Full Stack Jr.** focado em construir ecossistemas robustos e escaláveis de ponta a ponta. Domino desde a configuração da infraestrutura com Docker e Nginx até a modelagem de APIs seguras e criação de interfaces fluidas. 
+| Período | Onde | Papel |
+| :-- | :-- | :-- |
+| **Jun 2026 — hoje** | V-ONE | Eng. de Software Full Stack Jr. |
+| **Jun 2025 — hoje** | Eximia Tech | Eng. de Software Full Stack Jr. |
+| **2024 — 2025** | Freelance | Full Stack autônomo |
+| **2025 — 2027** | IFNMG | Tecnólogo em Análise e Desenvolvimento de Sistemas |
 
-Minha base técnica é fundamentada em **Arquitetura de Software** (Clean Architecture, DDD, SOLID) e na integração de sistemas complexos.
+> 🧭 Mesmo como júnior, fui designado pelo meu gestor como **responsável técnico pelos projetos da empresa**, orientando o time em decisões de arquitetura e boas práticas.
+
+<br>
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://agendai.tec.br/"><img src="assets/projects/agendai.webp" alt="Agendai — dashboard do cliente" width="100%"></a>
+      <h3>Agendai</h3>
+      <sub><b>SaaS multi-tenant · 2025 · Tech Lead</b></sub>
+      <p>Plataforma de agendamento com assinaturas recorrentes via Stripe, dashboards em tempo real e isolamento total de dados por tenant (RLS). Em produção, com onboarding self-service.</p>
+      <p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Stripe</code> <code>DDD</code></p>
+      <a href="https://agendai.tec.br/">Ver o produto →</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://contaup-techbalance.vercel.app/"><img src="assets/projects/contaup.webp" alt="ContaUp — dashboard do sistema" width="100%"></a>
+      <h3>ContaUp <sup>🥇</sup></h3>
+      <sub><b>SaaS financeiro · 2026 · Tech Lead</b></sub>
+      <p>1º lugar na banca Shark TADS do IFNMG como o projeto mais bem estruturado. Liderei 11 pessoas com Clean Architecture + DDD, Nginx anti-DDoS, Docker e CI/CD.</p>
+      <p><code>Next.js</code> <code>Node.js</code> <code>Supabase</code> <code>Docker</code> <code>Nginx</code></p>
+      <a href="https://contaup-techbalance.vercel.app/">Demo</a> · <a href="https://github.com/gui-ccr/contap-backend">Backend</a> · <a href="https://github.com/gui-ccr/contap-frontend">Frontend</a>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/projects/nda.pt.svg" alt="ERP Condomínios — sistema privado sob NDA" width="100%">
+      <h3>ERP Condomínios</h3>
+      <sub><b>Sistema ERP · 2025 · Arquiteto</b></sub>
+      <p>Gestão completa para administradoras: financeiro, boletos, áreas comuns e portal do morador. 24+ telas, RBAC multi-nível no PostgreSQL e RLS por tenant. Em produção.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>RBAC</code> <code>RLS</code></p>
+      <sub>Privado (NDA) — detalhes de arquitetura sob demanda.</sub>
+    </td>
+  </tr>
+</table>
+
+Também: [**ClinicaFlow AI**](https://clinicaflow.ia.br/) (landing de alta conversão com GSAP + Stripe Checkout) e [**Eximia Tech**](https://www.eximiatech.com.br/) (site institucional focado em performance e SEO). Todos os cases, com desafio, solução e resultado, estão no [portfólio](https://www.gui-ccr.com.br).
+
+<br>
+
+## Stack
+
+<div align="center">
+  <img src="assets/marquee.svg" alt="Multi-tenant · Clean Architecture · DDD · SOLID · RLS · RBAC" width="100%">
+  <br><br>
+  <img src="assets/stack.pt.svg" alt="Stack técnica: TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Docker, Nginx e mais" width="100%">
+</div>
+
+<br>
+
+## Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&icon_color=6366f1&text_color=d4d4d8&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&text_color=d4d4d8&locale=pt-br" height="165" alt="Linguagens mais usadas" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Gráfico de contribuições com animação de snake" />
+</div>
+
+<br>
 
 <details>
-<summary>⚡ <strong>Além do código & Currículo</strong> (Clique para expandir)</summary>
-
+<summary><b>Fora do código</b></summary>
 <br>
 
-- 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas pelo IFNMG (Previsão de conclusão: 2027).
-- 📄 **Currículo:** [Acessar meu Currículo (PDF)](https://drive.google.com/file/d/1Y9iCnoFn-NeXVPd1_lGp0Wr1BXT436iP/view?usp=sharing)
-- 🎮 **Hobbies:** Sou apaixonado por Música. Quando não estou programando ou praticando meu inglês, provavelmente estou jogando uma partida de Valorant ou curtindo a companhia do meu cachorro, Ikky.
+- 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas, IFNMG (previsão: 2027).
+- 🌎 **Idiomas:** Português nativo · Inglês B2+ · Espanhol A2.
+- 🎸 **Música** o tempo todo, com violão e guitarra aprendidos sozinho, do mesmo jeito que aprendi a programar.
+- 🏍️ **Moto** é o meu Ctrl+Alt+Del depois de um dia inteiro de tela.
+- 🎮 Uma partida de Valorant e a companhia do meu cachorro, o Ikky.
 
 </details>
 
----
-
-### 🛠 Stack Principal
-
-**Frontend & Interface**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-
-**Backend, APIs & Dados**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat">
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E">
-
-**DevOps, Arquitetura & Integrações**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Clean_Arch-000000?style=flat&logo=architecture&logoColor=white">
-<img src="https://img.shields.io/badge/SOLID-gray?style=flat">
-<img src="https://img.shields.io/badge/DDD-blue?style=flat">
-<img src="https://img.shields.io/badge/Payments-008CDD?style=flat&logo=Stripe&logoColor=white">
-
----
-
-### 📊 Github Stats
+<img src="assets/wave.svg" width="100%" alt="">
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="Linguagens Mais Usadas" />
+  <sub>Vamos conversar? <a href="mailto:contato@gui-ccr.com.br">contato@gui-ccr.com.br</a> &nbsp;·&nbsp; <a href="https://www.gui-ccr.com.br">gui-ccr.com.br</a></sub>
 </div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Snake animation" />
-</div>
-
-</details>
-
-<details>
-<summary>🇬🇧 <strong>English</strong> (Click to expand)</summary>
-<br>
-
-### 👨‍💻 About Me
-
-I am a **Junior Full Stack Software Engineer** focused on building robust and scalable ecosystems from end to end. I have strong skills ranging from infrastructure setup with Docker and Nginx to modeling secure APIs and creating fluid interfaces. 
-
-My technical foundation is built on **Software Architecture** (Clean Architecture, DDD, SOLID) and complex systems integration.
-
-<details>
-<summary>⚡ <strong>Beyond the code & Resume</strong> (Click to expand)</summary>
-
-<br>
-
-- 🎓 **Education:** Undergraduate in Analysis and Systems Development at IFNMG (Expected graduation: 2027).
-- 📄 **Resume:** [View my Resume (PDF)](https://drive.google.com/file/d/1Y9iCnoFn-NeXVPd1_lGp0Wr1BXT436iP/view?usp=sharing)
-- 🎮 **Hobbies:** I am passionate about Music. When I'm not coding or practicing my English, I'm probably playing a match of Valorant or hanging out with my dog, Ikky.
-
-</details>
-
----
-
-### 🛠 Tech Stack
-
-**Frontend & Interface**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-
-**Backend, APIs & Data**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat">
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E">
-
-**DevOps, Architecture & Integrations**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Clean_Arch-000000?style=flat&logo=architecture&logoColor=white">
-<img src="https://img.shields.io/badge/SOLID-gray?style=flat">
-<img src="https://img.shields.io/badge/DDD-blue?style=flat">
-<img src="https://img.shields.io/badge/Payments-008CDD?style=flat&logo=Stripe&logoColor=white">
-
----
-
-### 📊 Github Stats
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&locale=en" height="150" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Snake animation" />
-</div>
-
-</details>
