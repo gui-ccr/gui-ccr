@@ -21,7 +21,7 @@
 
 ## Sobre
 
-<img align="right" width="300" src="img/banner.png" alt="Memoji de Guilherme com o notebook">
+<img align="right" height="250" width="150" src="img/guilherme-rodrigues-engenheiro-de-software.webp" alt="Memoji de Guilherme com o notebook">
 
 Sou **Engenheiro de Software Full Stack** e trabalho mais perto da **arquitetura** do que do "só fazer funcionar". Projeto, desenvolvo e coloco em produção **SaaS e ERPs multi-tenant**, do primeiro commit ao deploy, com TypeScript, PostgreSQL e uma infraestrutura pensada pra crescer sem virar dívida técnica.
 
