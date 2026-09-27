@@ -2,13 +2,15 @@
 <title>Guilherme Rodrigues — Engenheiro de Software Full Stack</title>
 
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0b"/><stop offset="1" stop-color="#101018"/></linearGradient>
-  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#e0e7ff"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0b"/><stop offset="1" stop-color="#0c0c0f"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f4f4f5"/><stop offset=".62" stop-color="#c7d2fe"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
   <radialGradient id="glowA"><stop offset="0" stop-color="#6366f1" stop-opacity=".32"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
-  <radialGradient id="glowB"><stop offset="0" stop-color="#f59e0b" stop-opacity=".16"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
-  <radialGradient id="gold" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fde68a"/><stop offset=".55" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient>
+  <radialGradient id="glowB"><stop offset="0" stop-color="#22d3ee" stop-opacity=".10"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gold" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#e0e7ff"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#3730a3"/></radialGradient>
   <radialGradient id="ind" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#c7d2fe"/><stop offset=".55" stop-color="#6366f1"/><stop offset="1" stop-color="#312e81"/></radialGradient>
   <radialGradient id="cy" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#a5f3fc"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#155e75"/></radialGradient>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
   <linearGradient id="gridFade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff"/></linearGradient>
   <mask id="gm"><rect width="1200" height="340" fill="url(#gridFade)"/></mask>
@@ -30,7 +32,7 @@
 <g clip-path="url(#card)">
   <rect width="1200" height="340" fill="url(#bg)"/>
   <rect width="1200" height="340" fill="url(#grid)" mask="url(#gm)"/>
-  <circle class="drift" cx="980" cy="170" r="260" fill="url(#glowA)"/>
+  <circle class="drift" cx="980" cy="170" r="270" fill="url(#glowA)"/>
   <circle class="drift2" cx="90" cy="340" r="230" fill="url(#glowB)"/>
 
   <!-- orbit art -->
@@ -39,9 +41,9 @@
   </g>
   <g class="o1"><circle cx="1092" cy="170" r="13" fill="url(#gold)"/><circle cx="868" cy="170" r="7" fill="url(#cy)"/></g>
   <g class="o2"><circle cx="980" cy="18" r="10" fill="url(#ind)"/><circle cx="980" cy="322" r="15" fill="url(#gold)"/></g>
-  <g class="o3"><circle cx="1050" cy="170" r="6" fill="url(#gold)"/><circle cx="910" cy="170" r="9" fill="url(#ind)"/></g>
-  <circle class="core" cx="980" cy="170" r="46" fill="#111114" stroke="#6366f1" stroke-opacity=".7" stroke-width="1.5"/>
-  <text x="980" y="181" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#f59e0b">&lt;/&gt;</text>
+  <g class="o3"><circle cx="1050" cy="170" r="6" fill="url(#cy)"/><circle cx="910" cy="170" r="9" fill="url(#ind)"/></g>
+  <circle class="core" cx="980" cy="170" r="46" fill="#131316" stroke="url(#ring)" stroke-width="1.5"/>
+  <text x="980" y="181" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#22d3ee">&lt;/&gt;</text>
 
   <!-- availability pill -->
   <g class="up d1">
@@ -51,15 +53,15 @@
   </g>
 
   <text class="up d2" x="72" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-2.5" fill="url(#name)">Guilherme Rodrigues</text>
-  <text class="up d3" x="72" y="206" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="28" font-weight="500" fill="#d4d4d8">Engenheiro de Software <tspan fill="#f59e0b">Full Stack</tspan></text>
-  <rect class="bar" x="72" y="226" width="72" height="3" rx="1.5" fill="#f59e0b"/>
+  <text class="up d3" x="72" y="206" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="28" font-weight="500" fill="#d4d4d8">Engenheiro de Software <tspan fill="#22d3ee">Full Stack</tspan></text>
+  <rect class="bar" x="72" y="226" width="72" height="3" rx="1.5" fill="#22d3ee"/>
 
   <!-- typing line -->
   <g class="up d4">
-    <text x="72" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" font-weight="700" fill="#f59e0b">&gt;</text>
-    <text clip-path="url(#c0)" x="100" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="384" lengthAdjust="spacing">SaaS multi-tenant com RLS + RBAC</text><text clip-path="url(#c1)" x="100" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="384" lengthAdjust="spacing">Clean Architecture · DDD · SOLID</text><text clip-path="url(#c2)" x="100" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="336" lengthAdjust="spacing">Do primeiro commit ao deploy</text>
-    <g class="cur"><g transform="translate(100,254)"><rect class="blink" x="1" width="2.5" height="26" rx="1" fill="#f59e0b"/></g></g>
+    <text x="72" y="274" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" font-weight="700" fill="#22d3ee">&gt;</text>
+    <text clip-path="url(#c0)" x="100" y="274" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="384" lengthAdjust="spacing">SaaS multi-tenant com RLS + RBAC</text><text clip-path="url(#c1)" x="100" y="274" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="384" lengthAdjust="spacing">Clean Architecture · DDD · SOLID</text><text clip-path="url(#c2)" x="100" y="274" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#f4f4f5" textLength="336" lengthAdjust="spacing">Do primeiro commit ao deploy</text>
+    <g class="cur"><g transform="translate(100,254)"><rect class="blink" x="1" width="2.5" height="26" rx="1" fill="#22d3ee"/></g></g>
   </g>
 </g>
-<rect x=".5" y=".5" width="1199" height="339" rx="24" fill="none" stroke="#26262b"/>
+<rect x=".5" y=".5" width="1199" height="339" rx="24" fill="none" stroke="#242428"/>
 </svg>

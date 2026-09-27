@@ -21,18 +21,13 @@
 
 ## Sobre
 
-<img align="right" height="250" width="150" src="img/guilherme-rodrigues-engenheiro-de-software.webp" alt="Memoji de Guilherme com o notebook">
+<img align="right" height="250" width="150" src="img/guilherme-rodrigues-engenheiro-de-software.webp" alt="Guilherme Rodrigues, Engenheiro de Software Full Stack">
 
-Sou **Engenheiro de Software Full Stack** e trabalho mais perto da **arquitetura** do que do "só fazer funcionar". Projeto, desenvolvo e coloco em produção **SaaS e ERPs multi-tenant**, do primeiro commit ao deploy, com TypeScript, PostgreSQL e uma infraestrutura pensada pra crescer sem virar dívida técnica.
+Sou **Engenheiro de Software Full Stack**. Projeto sistemas e desenvolvo do primeiro commit ao deploy, e o que me move é entregar o resultado final, por mais difícil que seja o caminho. Hoje o meu foco são **SaaS e ERPs multi-tenant**, com TypeScript, PostgreSQL e uma infraestrutura preparada para crescer.
 
-O que eu cuido antes da tela existir:
+Cuido do sistema inteiro: modelagem de dados, arquitetura, API, interface, infraestrutura e entrega. As decisões de arquitetura e de segurança vêm antes do código, e é nelas que eu conduzo o time, com padrões claros e code review.
 
-- 🔐 **Isolamento de dados por tenant**: RLS e RBAC direto no PostgreSQL.
-- 🏛️ **Arquitetura em camadas**: Clean Architecture, DDD e SOLID no front e no back.
-- 🚢 **Infra e entrega**: Docker, Nginx (proxy reverso + rate-limit), CI/CD com GitHub Actions.
-- 🤝 **Liderança técnica**: code review, padrões de código e mentoria de quem está começando.
-
-Uso IA como parceira de trabalho, mas as decisões de arquitetura e segurança continuam sendo minhas.
+O mercado muda rápido e eu me adapto junto com ele. A IA faz parte do meu fluxo como ferramenta de engenharia: ela acelera a execução, mas o desenho da solução, os trade-offs e a responsabilidade pelo que vai para produção continuam sendo meus.
 
 <br>
 
@@ -100,7 +95,10 @@ Também: [**ClinicaFlow AI**](https://clinicaflow.ia.br/) (landing de alta conve
   <img src="https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&icon_color=6366f1&text_color=d4d4d8&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&text_color=d4d4d8&locale=pt-br" height="165" alt="Linguagens mais usadas" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Gráfico de contribuições com animação de snake" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man comendo os meus commits no gráfico de contribuições" />
+  </picture>
 </div>
 
 <br>

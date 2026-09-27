@@ -1,147 +1,147 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 372" width="1200" height="372" role="img" aria-label="Stack técnica">
 <title>Stack técnica</title>
-<style>.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}@keyframes chip{0%,6%,100%{stroke:#26262b}2.5%{stroke:#f59e0b;stroke-opacity:1}}.chip{animation:chip 11.0s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important}.up{opacity:1!important}}</style>
-<rect x=".5" y=".5" width="1199" height="371" rx="20" fill="#0a0a0b" stroke="#26262b"/>
-<rect x="216" y="24" width="1" height="326" fill="#26262b"/>
-<text class="up" style="animation-delay:0s" x="32" y="46" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#71717a">LINGUAGENS</text>
+<style>.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}@keyframes chip{0%,6%,100%{stroke:#242428}2.5%{stroke:#22d3ee;stroke-opacity:1}}.chip{animation:chip 11.0s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important}.up{opacity:1!important}}</style>
+<rect x=".5" y=".5" width="1199" height="371" rx="20" fill="#0a0a0b" stroke="#242428"/>
+<rect x="216" y="24" width="1" height="326" fill="#242428"/>
+<text class="up" style="animation-delay:0s" x="32" y="46" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#8a8a92">LINGUAGENS</text>
 <g transform="translate(236,24)"><g class="up" style="animation-delay:0.15s">
-  <rect class="chip" style="animation-delay:0s" width="126" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:0s" width="126" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#3178c6"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="78.0" lengthAdjust="spacing">TypeScript</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="78.0" lengthAdjust="spacing">TypeScript</text>
 </g></g>
 <g transform="translate(372,24)"><g class="up" style="animation-delay:0.195s">
-  <rect class="chip" style="animation-delay:0.32s" width="126" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:0.32s" width="126" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#f7df1e"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="78.0" lengthAdjust="spacing">JavaScript</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="78.0" lengthAdjust="spacing">JavaScript</text>
 </g></g>
 <g transform="translate(508,24)"><g class="up" style="animation-delay:0.24s">
-  <rect class="chip" style="animation-delay:0.64s" width="79" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:0.64s" width="79" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#ed8b00"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">Java</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">Java</text>
 </g></g>
 <g transform="translate(597,24)"><g class="up" style="animation-delay:0.28500000000000003s">
-  <rect class="chip" style="animation-delay:0.96s" width="71" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:0.96s" width="71" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#94a3b8"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">SQL</text>
-</g></g><text class="up" style="animation-delay:0.08s" x="32" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#71717a">FRONTEND</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">SQL</text>
+</g></g><text class="up" style="animation-delay:0.08s" x="32" y="104" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#8a8a92">FRONTEND</text>
 <g transform="translate(236,82)"><g class="up" style="animation-delay:0.32999999999999996s">
-  <rect class="chip" style="animation-delay:1.28s" width="87" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:1.28s" width="87" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#61dafb"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="39.0" lengthAdjust="spacing">React</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="39.0" lengthAdjust="spacing">React</text>
 </g></g>
 <g transform="translate(333,82)"><g class="up" style="animation-delay:0.375s">
-  <rect class="chip" style="animation-delay:1.6s" width="103" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:1.6s" width="103" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#ffffff"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="54.6" lengthAdjust="spacing">Next.js</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="54.6" lengthAdjust="spacing">Next.js</text>
 </g></g>
 <g transform="translate(446,82)"><g class="up" style="animation-delay:0.42000000000000004s">
-  <rect class="chip" style="animation-delay:1.92s" width="142" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:1.92s" width="142" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#38bdf8"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="93.6" lengthAdjust="spacing">Tailwind CSS</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="93.6" lengthAdjust="spacing">Tailwind CSS</text>
 </g></g>
 <g transform="translate(598,82)"><g class="up" style="animation-delay:0.46499999999999997s">
-  <rect class="chip" style="animation-delay:2.24s" width="118" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:2.24s" width="118" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#e4e4e7"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="70.2" lengthAdjust="spacing">shadcn/ui</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="70.2" lengthAdjust="spacing">shadcn/ui</text>
 </g></g>
 <g transform="translate(726,82)"><g class="up" style="animation-delay:0.51s">
-  <rect class="chip" style="animation-delay:2.56s" width="79" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:2.56s" width="79" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#88ce02"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">GSAP</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">GSAP</text>
 </g></g>
 <g transform="translate(815,82)"><g class="up" style="animation-delay:0.5549999999999999s">
-  <rect class="chip" style="animation-delay:2.88s" width="157" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:2.88s" width="157" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#ff4154"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="109.2" lengthAdjust="spacing">TanStack Query</text>
-</g></g><text class="up" style="animation-delay:0.16s" x="32" y="162" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#71717a">BACKEND &amp; DADOS</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="109.2" lengthAdjust="spacing">TanStack Query</text>
+</g></g><text class="up" style="animation-delay:0.16s" x="32" y="162" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#8a8a92">BACKEND &amp; DADOS</text>
 <g transform="translate(236,140)"><g class="up" style="animation-delay:0.6s">
-  <rect class="chip" style="animation-delay:3.2s" width="103" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:3.2s" width="103" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#83cd29"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="54.6" lengthAdjust="spacing">Node.js</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="54.6" lengthAdjust="spacing">Node.js</text>
 </g></g>
 <g transform="translate(349,140)"><g class="up" style="animation-delay:0.645s">
-  <rect class="chip" style="animation-delay:3.52s" width="103" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:3.52s" width="103" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#a1a1aa"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="54.6" lengthAdjust="spacing">Express</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="54.6" lengthAdjust="spacing">Express</text>
 </g></g>
 <g transform="translate(462,140)"><g class="up" style="animation-delay:0.6900000000000001s">
-  <rect class="chip" style="animation-delay:3.84s" width="126" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:3.84s" width="126" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#4f8fd0"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="78.0" lengthAdjust="spacing">PostgreSQL</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="78.0" lengthAdjust="spacing">PostgreSQL</text>
 </g></g>
 <g transform="translate(598,140)"><g class="up" style="animation-delay:0.735s">
-  <rect class="chip" style="animation-delay:4.16s" width="110" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:4.16s" width="110" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#3ecf8e"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="62.4" lengthAdjust="spacing">Supabase</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="62.4" lengthAdjust="spacing">Supabase</text>
 </g></g>
 <g transform="translate(718,140)"><g class="up" style="animation-delay:0.78s">
-  <rect class="chip" style="animation-delay:4.48s" width="110" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:4.48s" width="110" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#ffca28"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="62.4" lengthAdjust="spacing">Firebase</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="62.4" lengthAdjust="spacing">Firebase</text>
 </g></g>
 <g transform="translate(838,140)"><g class="up" style="animation-delay:0.825s">
-  <rect class="chip" style="animation-delay:4.8s" width="95" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:4.8s" width="95" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#7c8cf8"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="46.8" lengthAdjust="spacing">Prisma</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="46.8" lengthAdjust="spacing">Prisma</text>
 </g></g>
 <g transform="translate(943,140)"><g class="up" style="animation-delay:0.87s">
-  <rect class="chip" style="animation-delay:5.12s" width="79" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:5.12s" width="79" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#6366f1"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">REST</text>
-</g></g><text class="up" style="animation-delay:0.24s" x="32" y="220" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#71717a">SEGURANÇA</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">REST</text>
+</g></g><text class="up" style="animation-delay:0.24s" x="32" y="220" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#8a8a92">SEGURANÇA</text>
 <g transform="translate(236,198)"><g class="up" style="animation-delay:0.915s">
-  <rect class="chip" style="animation-delay:5.44s" width="71" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
-  <circle cx="18" cy="18" r="4" fill="#f59e0b"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">RLS</text>
+  <rect class="chip" style="animation-delay:5.44s" width="71" height="36" rx="10" fill="#17171a" stroke="#242428"/>
+  <circle cx="18" cy="18" r="4" fill="#818cf8"/>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">RLS</text>
 </g></g>
 <g transform="translate(317,198)"><g class="up" style="animation-delay:0.96s">
-  <rect class="chip" style="animation-delay:5.76s" width="79" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
-  <circle cx="18" cy="18" r="4" fill="#f59e0b"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">RBAC</text>
+  <rect class="chip" style="animation-delay:5.76s" width="79" height="36" rx="10" fill="#17171a" stroke="#242428"/>
+  <circle cx="18" cy="18" r="4" fill="#818cf8"/>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="31.2" lengthAdjust="spacing">RBAC</text>
 </g></g>
 <g transform="translate(406,198)"><g class="up" style="animation-delay:1.005s">
-  <rect class="chip" style="animation-delay:6.08s" width="142" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
-  <circle cx="18" cy="18" r="4" fill="#f59e0b"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="93.6" lengthAdjust="spacing">Multi-tenant</text>
-</g></g><text class="up" style="animation-delay:0.32s" x="32" y="278" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#71717a">ARQUITETURA</text>
+  <rect class="chip" style="animation-delay:6.08s" width="142" height="36" rx="10" fill="#17171a" stroke="#242428"/>
+  <circle cx="18" cy="18" r="4" fill="#818cf8"/>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="93.6" lengthAdjust="spacing">Multi-tenant</text>
+</g></g><text class="up" style="animation-delay:0.32s" x="32" y="278" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#8a8a92">ARQUITETURA</text>
 <g transform="translate(236,256)"><g class="up" style="animation-delay:1.0499999999999998s">
-  <rect class="chip" style="animation-delay:6.4s" width="188" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:6.4s" width="188" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#22d3ee"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="140.4" lengthAdjust="spacing">Clean Architecture</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="140.4" lengthAdjust="spacing">Clean Architecture</text>
 </g></g>
 <g transform="translate(434,256)"><g class="up" style="animation-delay:1.095s">
-  <rect class="chip" style="animation-delay:6.72s" width="71" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:6.72s" width="71" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#22d3ee"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">DDD</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">DDD</text>
 </g></g>
 <g transform="translate(515,256)"><g class="up" style="animation-delay:1.14s">
-  <rect class="chip" style="animation-delay:7.04s" width="87" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:7.04s" width="87" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#22d3ee"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="39.0" lengthAdjust="spacing">SOLID</text>
-</g></g><text class="up" style="animation-delay:0.4s" x="32" y="336" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#71717a">INFRA &amp; INTEGRAÇÕES</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="39.0" lengthAdjust="spacing">SOLID</text>
+</g></g><text class="up" style="animation-delay:0.4s" x="32" y="336" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#8a8a92">INFRA &amp; INTEGRAÇÕES</text>
 <g transform="translate(236,314)"><g class="up" style="animation-delay:1.1849999999999998s">
-  <rect class="chip" style="animation-delay:7.36s" width="95" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:7.36s" width="95" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#2496ed"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="46.8" lengthAdjust="spacing">Docker</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="46.8" lengthAdjust="spacing">Docker</text>
 </g></g>
 <g transform="translate(341,314)"><g class="up" style="animation-delay:1.23s">
-  <rect class="chip" style="animation-delay:7.68s" width="87" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:7.68s" width="87" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#009639"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="39.0" lengthAdjust="spacing">Nginx</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="39.0" lengthAdjust="spacing">Nginx</text>
 </g></g>
 <g transform="translate(438,314)"><g class="up" style="animation-delay:1.275s">
-  <rect class="chip" style="animation-delay:8s" width="157" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
-  <circle cx="18" cy="18" r="4" fill="#a5b4fc"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="109.2" lengthAdjust="spacing">GitHub Actions</text>
+  <rect class="chip" style="animation-delay:8s" width="157" height="36" rx="10" fill="#17171a" stroke="#242428"/>
+  <circle cx="18" cy="18" r="4" fill="#c7d2fe"/>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="109.2" lengthAdjust="spacing">GitHub Actions</text>
 </g></g>
 <g transform="translate(605,314)"><g class="up" style="animation-delay:1.3199999999999998s">
-  <rect class="chip" style="animation-delay:8.32s" width="95" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:8.32s" width="95" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#635bff"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="46.8" lengthAdjust="spacing">Stripe</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="46.8" lengthAdjust="spacing">Stripe</text>
 </g></g>
 <g transform="translate(710,314)"><g class="up" style="animation-delay:1.3649999999999998s">
-  <rect class="chip" style="animation-delay:8.64s" width="71" height="36" rx="10" fill="#15151a" stroke="#26262b"/>
+  <rect class="chip" style="animation-delay:8.64s" width="71" height="36" rx="10" fill="#17171a" stroke="#242428"/>
   <circle cx="18" cy="18" r="4" fill="#f05032"/>
-  <text x="32" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">Git</text>
+  <text x="32" y="23" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e4e4e7" textLength="23.4" lengthAdjust="spacing">Git</text>
 </g></g>
 </svg>

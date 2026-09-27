@@ -21,18 +21,13 @@
 
 ## About
 
-<img align="right" width="300" src="img/banner.png" alt="Guilherme's memoji with a laptop">
+<img align="right" height="250" width="150" src="img/guilherme-rodrigues-engenheiro-de-software.webp" alt="Guilherme Rodrigues, Full Stack Software Engineer">
 
-I'm a **Full Stack Software Engineer** who works closer to **architecture** than to "just make it work". I design, build and ship **multi-tenant SaaS and ERP systems** to production, from the first commit to deploy, with TypeScript, PostgreSQL and infrastructure built to grow without turning into tech debt.
+I'm a **Full Stack Software Engineer**. I design systems and build them from the first commit to deploy, and what drives me is delivering the end result, however hard the path gets. Today my focus is **multi-tenant SaaS and ERP systems**, with TypeScript, PostgreSQL and infrastructure ready to grow.
 
-What I take care of before the screen even exists:
+I own the whole system: data modeling, architecture, API, interface, infrastructure and delivery. Architecture and security decisions come before the code, and that is where I lead the team, with clear standards and code review.
 
-- 🔐 **Per-tenant data isolation**: RLS and RBAC straight in PostgreSQL.
-- 🏛️ **Layered architecture**: Clean Architecture, DDD and SOLID on both front and back end.
-- 🚢 **Infra & delivery**: Docker, Nginx (reverse proxy + rate limiting), CI/CD with GitHub Actions.
-- 🤝 **Technical leadership**: code reviews, coding standards and mentoring people who are just starting out.
-
-I use AI as a work partner, but architecture and security decisions are still mine.
+The market moves fast and I adapt along with it. AI is part of my workflow as an engineering tool: it speeds up execution, but the design of the solution, the trade-offs and the accountability for what ships to production remain mine.
 
 <br>
 
@@ -100,7 +95,10 @@ Also: [**ClinicaFlow AI**](https://clinicaflow.ia.br/) (high-conversion landing 
   <img src="https://github-stats-extended.vercel.app/api?username=gui-ccr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&icon_color=6366f1&text_color=d4d4d8&locale=en" height="165" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gui-ccr&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&text_color=d4d4d8&locale=en" height="165" alt="Top languages" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/github-contribution-grid-snake-golden.svg" width="100%" alt="Contribution graph with snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/gui-ccr/gui-ccr/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man eating my commits on the contribution graph" />
+  </picture>
 </div>
 
 <br>
